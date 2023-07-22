@@ -15,20 +15,20 @@ Zifan(Ziffer) Peng [(彭子帆)](https://translate.google.com/?sl=zh-CN&tl=en&te
 
 - **Sep 2023 - present**
 
-Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China
+<small>Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
 - **Sep 2021 - Jun 2022**
 
-MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR
+<small>MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
 - **Sep 2017 - Jun 2021** 
 
 BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China
 
 ## Experience
 
-<small>
 - **Jun 2022 - Jul 2023**
 
-Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
+<small>Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
+
 - **Jan 2022 - May 2022**
 
 Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR
