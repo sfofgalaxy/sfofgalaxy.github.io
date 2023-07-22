@@ -13,33 +13,17 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 #### Education
 
-- <small>**Sep 2023 - present**</small>
-<small>Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
-- <small>**Sep 2021 - Jun 2022**</small>
-
-<small>MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
-- <small>**Sep 2017 - Jun 2021**</small>
-
-<small>BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China</small>
+- <small>**Sep 2023 - present** Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
+- <small>**Sep 2021 - Jun 2022** MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
+- <small>**Sep 2017 - Jun 2021**BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China</small>
 
 #### Experience
 
-- <small>**Jun 2022 - Jul 2023**</small>
-
-<small>Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
-
-- <small>**Jan 2022 - May 2022**</small>
-
-<small>Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR</small>
-- <small>**Nov 2021 - Apr 2022**</small>
-
-<small>Research Assistant, [The Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR</small>
-- <small>**Jun 2021 - Aug 2021**</small>
-
-<small>Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.com/), Beijing, China</small>
-- <small>**Aug 2020 - Nov 2020**</small>
-
-<small>Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China</small>
+- <small>**Jun 2022 - Jul 2023**Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
+- <small>**Jan 2022 - May 2022**Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR</small>
+- <small>**Nov 2021 - Apr 2022**Research Assistant, [The Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR</small>
+- <small>**Jun 2021 - Aug 2021**Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.com/), Beijing, China</small>
+- <small>**Aug 2020 - Nov 2020**Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China</small>
 
 #### Contact
 {% include site-form.html %}
