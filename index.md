@@ -28,7 +28,5 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 #### Contact
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&cl=ffffff&w=a"></script>
