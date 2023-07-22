@@ -1,15 +1,15 @@
 ---
-title: About Ziffer
+title: Ziffer's Homepage
 feature_text: |
   ## Ziffer
-  Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  Welcome to Ziffer's personal site! Wish you have a nice day!
+feature_image: "/assets/homepage.jpg"
+excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+<!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 
 ## Features
 
@@ -93,5 +93,4 @@ To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/a
 If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
 
 ## Visitors
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&cl=ffffff&w=a"></script>
