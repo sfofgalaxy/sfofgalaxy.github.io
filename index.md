@@ -13,19 +13,31 @@ Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technol
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 ## Education
 
-- <img src="/assets/other_logos/hkust.svg" style="width:50px;height:50px;border-radius:50%; " alt=""> 
-**2023 - present** Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China
-- <img src="/assets/other_logos/hkust.svg" style="width:50px;height:50px;border-radius:50%; " alt=""> 
-**2021 - 2022** MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR
-- <img src="/assets/other_logos/zju.svg" style="width:50px;height:50px;border-radius:50%; " alt=""> 
-**2021 - 2022** BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China
+- **Sep 2023 - present**
+
+Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China
+- **Sep 2021 - Jun 2022**
+
+MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR
+- **Sep 2017 - Jun 2021** 
+
+BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China
 
 ## Experience
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- **Jun 2022 - Jul 2023**
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+Data Engineer, [Shopee]('www.shopee.com), Guangzhou, China
+- **Jan 2022 - May 2022**
 
+Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR
+- **Nov 2021 - Apr 2022**
+
+Research Assistant, [The Hong Kong University of Science and Technology](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR
+- **Jun 2021 - Aug 2021** 
+
+Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.com/), Beijing, China
+- **Aug 2020 - Nov 2020** 
+
+Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&cl=ffffff&w=a"></script>
