@@ -8,20 +8,20 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 
 <img src="/assets/avatar.jpg" style="width:200px;height:200px;border-radius:50%;display: block; margin-left: auto;margin-right: auto; " alt="">
 
-Zifan(Ziffer) Peng [(彭子帆)](https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%BD%AD%E5%AD%90%E5%B8%86&op=translate&hl=zh-CN) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
+<small>Zifan(Ziffer) Peng [(彭子帆)](https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%BD%AD%E5%AD%90%E5%B8%86&op=translate&hl=zh-CN) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.</small>
 
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 ## Education
 
-- **Sep 2023 - present**
+- <small>**Sep 2023 - present**</small>
 
 <small>Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
-- **Sep 2021 - Jun 2022**
+- <small>**Sep 2021 - Jun 2022**</small>
 
 <small>MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
-- **Sep 2017 - Jun 2021** 
+- <small>**Sep 2017 - Jun 2021**</small>
 
-BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China
+<small>BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China</small>
 
 ## Experience
 
