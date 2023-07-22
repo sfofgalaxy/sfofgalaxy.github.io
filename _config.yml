@@ -123,17 +123,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+- title: Publications
+  url: /publications/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
+- title: Projects
+  url: /projects/
 - title: Search
   url: /search/
 navigation_footer:
-- title: Created by David Darnes
-  url: https://www.ziffer.top
+- title: Created by Ziffer Peng
+  url: /#
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/sfofgalaxy
