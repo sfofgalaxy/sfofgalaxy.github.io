@@ -131,18 +131,15 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
-
 navigation_footer:
 - title: Created by David Darnes
-  url: https://darn.es
+  url: https://www.ziffer.top
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/sfofgalaxy
+  LinkedIn: https://www.linkedin.com/in/zifan-peng-968205219/
+  GitHub: https://github.com/sfofgalaxy
+  link: https://www.ziffer.top
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
