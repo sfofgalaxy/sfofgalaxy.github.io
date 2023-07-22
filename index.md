@@ -27,7 +27,7 @@ BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/
 
 - **Jun 2022 - Jul 2023**
 
-Data Engineer, [Shopee]('www.shopee.com), Guangzhou, China
+Data Engineer, [Shopee]('www.shopee.com), Singapore
 - **Jan 2022 - May 2022**
 
 Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR
