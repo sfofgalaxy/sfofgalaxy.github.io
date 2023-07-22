@@ -6,7 +6,8 @@ feature_image: "/assets/homepage.jpg"
 excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022."
 ---
 
-<img src="/assets/avatar.jpg" style="margin-top:10px;width:30px;height:30px;border-radius:50%; " alt="">
+<img src="/assets/avatar.jpg" style="margin-top:10px;width:100px;height:100px;border-radius:50%;display: block; margin-left: auto;margin-right: auto; " alt="">
+
 Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
 
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
