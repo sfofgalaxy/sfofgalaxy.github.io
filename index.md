@@ -25,9 +25,10 @@ BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/
 
 ## Experience
 
+<small>
 - **Jun 2022 - Jul 2023**
 
-Data Engineer, [Shopee]('www.shopee.com), Singapore
+Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
 - **Jan 2022 - May 2022**
 
 Research Assistant, [The Hang Seng University of Hong Kong](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR
@@ -41,5 +42,10 @@ Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.co
 
 Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China
 
+## Contact
+{% include site-form.html %}
 
+``` html
+{% raw %}{% include site-form.html %}{% endraw %}
+```
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&cl=ffffff&w=a"></script>
