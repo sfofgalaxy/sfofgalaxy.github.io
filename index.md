@@ -13,8 +13,8 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 #### Education
 
-- <small>**2023 - present** Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
-- <small>**2021 - 2022** MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
+- <small>**2023 - present**　Ph.D. in Financial Technology, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), Guangzhou, China</small>
+- <small>**2021 - 2022**　MSc in Information Technology, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR</small>
 - <small>**2017 - 2021**　BEng in Software Engineer, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China</small>
 
 #### Experience
