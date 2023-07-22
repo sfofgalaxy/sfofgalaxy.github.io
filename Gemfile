@@ -6,5 +6,3 @@ gem 'jekyll-paginate'
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
-
-end
