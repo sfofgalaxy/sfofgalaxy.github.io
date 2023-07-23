@@ -1,13 +1,11 @@
 ---
 title: Publications
 feature_image: "/assets/publications.jpg"
-feature_text: |
-  - public
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
 <small>
-You check out on the [Google Scholar {% include icon.html id="googlescholar" title="googlescholar" %}]({% site.social_links.googlescholar %})
+<!-- You check out on the [Google Scholar {% include icon.html id="googlescholar" title="googlescholar" %}]({% site.social_links.googlescholar %}) -->
 </small>
 
 #### 2023
