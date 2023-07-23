@@ -1,8 +1,8 @@
 ---
 title: Publications
 feature_text: |
-  Publications
-feature_image: "https://picsum.photos/2560/600?image=873"
+  # Publications
+feature_image: "/assets/publications.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
