@@ -107,7 +107,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 
 ``` html
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
