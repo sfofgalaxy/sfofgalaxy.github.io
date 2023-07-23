@@ -8,9 +8,7 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 
 <img src="/assets/avatar.jpg" style="width:200px;height:200px;border-radius:50%;display: block; margin-left: auto;margin-right: auto; " alt="">
 
-<div style="display: block; margin-left: auto;margin-right: auto;">
 {% include nav-social.html %}
-</div>
 
 <small>Zifan(Ziffer) Peng (彭子帆, [pronounce my name](https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%BD%AD%E5%AD%90%E5%B8%86&op=translate&hl=zh-CN)) is an incoming Ph.D. Student in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.</small>
 
