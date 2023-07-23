@@ -2,7 +2,7 @@
 title: Publications
 feature_image: "/assets/publications.jpg"
 feature_text: |
-  &#20&nbsp<br></br>
+  - public
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
