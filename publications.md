@@ -1,6 +1,7 @@
 ---
 title: Publications
 feature_image: "/assets/publications.jpg"
+feature_text: 
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
