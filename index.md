@@ -23,10 +23,10 @@ excerpt: "Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financi
 
 #### Experience
 
-- <small>**2022 - 2023**　Data Engineer, [Shopee]('www.shopee.com), Singapore</small>
+- <small>**2022 - 2023**　Data Engineer, [Shopee](https://shopee.com/index.html), Singapore</small>
 - <small>**2022**　Research Assistant, [HSU](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR</small>
 - <small>**2022**　Research Assistant, [HKUST](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR</small>
-- <small>**2021**　Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.com/), Beijing, China</small>
+- <small>**2021**　Java Software Engineer Intern, [AMap, Alibaba Group](https://www.alibabagroup.com/en-US), Beijing, China</small>
 - <small>**2020**　Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China</small>
 
 #### Contact
