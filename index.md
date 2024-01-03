@@ -12,7 +12,14 @@ excerpt: "Ziffer Zifan Peng (彭子帆) is a Ph.D. Student in Financial Technolo
 {% include nav-social.html %}
 </div>
 
-<small>Ziffer Zifan Peng (彭子帆, [pronounce my name](https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%BD%AD%E5%AD%90%E5%B8%86&op=translate&hl=zh-CN)) is a Ph.D. Student in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). His supervisor is [Dr. Yingjie Xue](https://yingjiexue-brown.github.io/). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. Currently, my research interests lie in Decentralized Finance, Decentralized Options, DeFi Attack.</small>
+<small>Ziffer Zifan Peng (彭子帆, [pronounce my name](https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%BD%AD%E5%AD%90%E5%B8%86&op=translate&hl=zh-CN)) is a Ph.D. Student in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). His supervisor is [Dr. Yingjie Xue](https://yingjiexue-brown.github.io/). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. 
+Currently, my research interests lie in: 
+<ul>
+<li>Decentralized Finance</li>
+<li>DeFi Security</li>
+<li>DeFi Attack</li>
+</ul>
+</small>
 
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 #### Education
