@@ -22,7 +22,7 @@ Ziffer Zifan Peng (彭子帆, [pronounce my name](https://translate.google.com/?
 
 #### Experience
 
-- <small>**2022 - 2023**　Data Engineer, [Shopee](https://shopee.com/index.html), Singapore</small>
+- <small>**2022 - 2023** Software Engineer, [Shopee](https://shopee.com/index.html), Singapore</small>
 - <small>**2022**　Research Assistant, [HSU](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR</small>
 - <small>**2022**　Research Assistant, [HKUST](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR</small>
 - <small>**2021**　Java Software Engineer Intern, [AMap · Alibaba Group](https://www.alibabagroup.com/en-US), Beijing, China</small>
