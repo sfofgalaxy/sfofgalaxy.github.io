@@ -8,6 +8,10 @@ excerpt: "A demo of Markdown and HTML includes"
 You check out on the [Google Scholar {% include icon.html id="googlescholar" title="googlescholar" %}](https://scholar.google.com/citations?user=2M8-SOwAAAAJ).
 </small>
 
+<small>
+\*Equal contribution
+</small>
+
 #### 2025
 - <small>Zeren Luo\*, **Zifan Peng**\*, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He (2025). The Rising Threat to Emerging AI-Powered Search Engines. *arXiv:2502.04951* [DOI](https://arxiv.org/abs/2502.04951)</small>
 - <small>**Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2025). Prompt-based contrastive learning to combat the COVID-19 infodemic. *Machine Learning, 114 (1), 6.* [DOI](https://doi.org/10.1007/s10994-024-06731-8)</small>
@@ -21,7 +25,3 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 #### 2023
 
 - <small>**Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2023). Combating the COVID-19 infodemic using Prompt-Based curriculum learning. *Expert Systems with Applications, 229, 120501.* [DOI](https://doi.org/10.1016/j.eswa.2023.120501)</small>
-
-<small>
-* \*equal contribution *
-</small>
