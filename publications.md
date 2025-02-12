@@ -22,4 +22,6 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 
 - <small>**Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2023). Combating the COVID-19 infodemic using Prompt-Based curriculum learning. *Expert Systems with Applications, 229, 120501.* [DOI](https://doi.org/10.1016/j.eswa.2023.120501)</small>
 
+<small>
 * \*equal contribution *
+</small>
