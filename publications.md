@@ -14,6 +14,7 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 
 #### 2025
 - <small>Zeren Luo\*, **Zifan Peng**\*, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He (2025). The Rising Threat to Emerging AI-Powered Search Engines. *arXiv:2502.04951* [DOI](https://arxiv.org/abs/2502.04951)</small>
+- <small>Xiang Liu, Mingchen Li, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li (2025). Automatic Pruning via Structured Lasso with Class-wise Information. *arXiv:2502.09125* [DOI](https://arxiv.org/abs/2502.09125)</small>
 - <small>**Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2025). Prompt-based contrastive learning to combat the COVID-19 infodemic. *Machine Learning, 114 (1), 6.* [DOI](https://doi.org/10.1007/s10994-024-06731-8)</small>
 
 #### 2024
