@@ -13,5 +13,5 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 <!-- #### 2025
 
 #### 2024 -->
-
-- <small>Teaching Assistant, FTEC 5310 - Blockchain Technology (3 units), Graduate Course, The Hong Kong University of Science and Technology (Guangzhou), 2024</small>
+- <small>Teaching Assistant, **Project-driven Collaborative Design Thinking**, Graduate Course, HKUST(GZ), 2025 Spring</small>
+- <small>Teaching Assistant, **Blockchain Technology**, Graduate Course, HKUST(GZ), 2024 Fall</small>

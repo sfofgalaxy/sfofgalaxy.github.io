@@ -9,22 +9,27 @@
 
 <url>
   <loc>https://ziffer.top/</loc>
-  <lastmod>2025-01-16T17:34:29+00:00</lastmod>
+  <lastmod>2025-02-21T17:34:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ziffer.top/publications/</loc>
-  <lastmod>2023-07-22T17:34:29+00:00</lastmod>
+  <lastmod>2025-02-21T17:34:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ziffer.top/blog/</loc>
-  <lastmod>2023-07-22T17:34:29+00:00</lastmod>
+  <lastmod>2025-02-21T17:34:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ziffer.top/teaching/</loc>
+  <lastmod>2025-02-21T17:34:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ziffer.top/projects/</loc>
-  <lastmod>2023-07-22T17:34:29+00:00</lastmod>
+  <lastmod>2025-02-21T17:34:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>

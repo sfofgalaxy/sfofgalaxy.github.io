@@ -119,12 +119,12 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
+- title: Teaching
+  url: /teaching/
 - title: Blog
   url: /blog/
 # - title: Projects
 #   url: /projects/
-- title: Teaching
-  url: /teaching/
 - title: Search
   url: /search/
 navigation_footer:
