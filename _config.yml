@@ -123,6 +123,8 @@ navigation_header:
   url: /blog/
 # - title: Projects
 #   url: /projects/
+- title: Teaching
+  url: /teaching/
 - title: Search
   url: /search/
 navigation_footer:
