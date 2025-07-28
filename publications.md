@@ -13,11 +13,12 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 </small>
 
 #### 2025
+- <small>Zeren Luo\*, **Zifan Peng**\*, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He (2025). Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search. *USENIX Security '25* [DOI](https://arxiv.org/abs/2502.04951)</small>
+- <small>Jingyi Zheng\*, **Zifan Peng**\*, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He (2025). GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts. *arXiv:2507.15761* [DOI](https://arxiv.org/abs/2507.15761)</small>
 - <small>**Zifan Peng**, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong, Xinlei He, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang (2025). JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models *arXiv:2505.17568* [DOI](https://www.arxiv.org/abs/2505.17568)</small>
 - <small>Ziyi Zhang, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He (2025). "I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments. *arXiv:2505.04488* [DOI](https://arxiv.org/abs/2505.04488)</small>
 - <small>Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He (2025). Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models. *arXiv:2504.13626* [DOI](https://arxiv.org/abs/2504.13626)</small>
 - <small>Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He (2025). Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications. *arXiv:2505.00049* [DOI](https://arxiv.org/abs/2505.00049)</small>
-- <small>Zeren Luo\*, **Zifan Peng**\*, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He (2025). The Rising Threat to Emerging AI-Powered Search Engines. *arXiv:2502.04951* [DOI](https://arxiv.org/abs/2502.04951)</small>
 - <small>Xiang Liu, Mingchen Li, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li (2025). Automatic Pruning via Structured Lasso with Class-wise Information. *arXiv:2502.09125* [DOI](https://arxiv.org/abs/2502.09125)</small>
 - <small>**Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2025). Prompt-based contrastive learning to combat the COVID-19 infodemic. *Machine Learning, 114 (1), 6.* [DOI](https://doi.org/10.1007/s10994-024-06731-8)</small>
 
