@@ -31,7 +31,7 @@ My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Te
 - <small>**2022** Research Assistant, [HSU](https://scm.hsu.edu.hk/hk/aboutus/faculty/56), Hong Kong SAR</small>
 - <small>**2022** Research Assistant, [HKUST](https://sosc.hkust.edu.hk/people/wenjuan-zheng), Hong Kong SAR</small>
 - <small>**2021** Java Software Engineer Intern, [AMap · Alibaba Group](https://www.alibabagroup.com/en-US), Beijing, China</small>
-- <small>**2020** Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China</small>
+<!-- - <small>**2020** Software Engineer Intern, [Huawei](https://www.huawei.com/en/), Hangzhou, China</small> -->
 
 #### Contact
 <small>Free free to drop a message here or send an email directly: <sfofgalaxy[AT]gmail.com></small>
