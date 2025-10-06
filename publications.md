@@ -13,6 +13,8 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 </small>
 
 #### 2025
+- <small>Jingyi Zheng, Tianyi Hu, Yule Liu, Zhen Sun, Zongmin Zhang, Wenhan Dong, **Zifan Peng**, Xinlei He (2025). CHASM: Unveiling Covert Advertisements on Chinese Social Media. *NeurIPS '25* [DOI](https://neurips.cc/virtual/2025/poster/121625)</small>
+- <small>M-A-P Team et al., including **Zifan Peng** (2025). SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines. *NeurIPS '25* [DOI](https://arxiv.org/abs/2502.14739)</small>
 - <small>Zeren Luo\*, **Zifan Peng**\*, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He (2025). Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search. *USENIX Security '25* [DOI](https://arxiv.org/abs/2502.04951)</small>
 - <small>Jingyi Zheng\*, **Zifan Peng**\*, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He (2025). GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts. *arXiv:2507.15761* [DOI](https://arxiv.org/abs/2507.15761)</small>
 - <small>**Zifan Peng**, Yingjie Xue, and Jingyu Liu (2024). Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach. *IEEE International Conference on Web Services (ICWS) '25* [DOI](https://arxiv.org/abs/2410.15724)</small>
