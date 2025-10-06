@@ -1,5 +1,5 @@
 ---
-title: "One Paper Got Accepted by ICWS 2025 (CCF B)"
+title: "One Paper Got Accepted by ICWS 2025"
 categories:
 - Research
 - Publications
