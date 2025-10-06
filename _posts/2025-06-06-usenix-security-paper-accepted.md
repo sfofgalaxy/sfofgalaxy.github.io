@@ -1,5 +1,5 @@
 ---
-title: "One Paper Accepted to USENIX Security '25 (CCF A)"
+title: "One Paper Accepted to USENIX Security '25"
 categories:
 - Research
 - Publications
