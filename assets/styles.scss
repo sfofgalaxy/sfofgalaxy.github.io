@@ -4,3 +4,9 @@ styles: true
 ---
 
 @import "alembic";
+
+/* Smaller title for news layout */
+.layout-news .article--page h1 {
+  font-size: 1.75rem; /* reduce from theme default */
+  line-height: 1.25;
+}
