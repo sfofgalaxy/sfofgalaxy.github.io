@@ -1,5 +1,5 @@
 ---
-title: "Two Papers Accepted to NeurIPS 2025 (CCF A)"
+title: "Two Papers Accepted to NeurIPS 2025"
 categories:
 - Research
 - Publications
