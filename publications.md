@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: false
 feature_image: "/assets/publications.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 ---

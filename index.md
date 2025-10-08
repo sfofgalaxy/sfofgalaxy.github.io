@@ -1,5 +1,5 @@
 ---
-title: About
+title: false
 feature_text: |
   # Welcome and have a nice day!
 feature_image: "/assets/homepage.jpg"
