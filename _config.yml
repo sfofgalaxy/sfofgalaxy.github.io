@@ -115,19 +115,18 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-# All pages hidden from navigation
-# - title: Home
-#   url: /
-# - title: Publications
-#   url: /publications/
-# - title: Teaching & Service
-#   url: /teaching/
-# - title: News
-#   url: /news/
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
+- title: Teaching & Service
+  url: /teaching/
+- title: News
+  url: /news/
 # - title: Projects
 #   url: /projects/
-# - title: Search
-#   url: /search/
+- title: Search
+  url: /search/
 navigation_footer:
 - title: Created by Zifan Peng
   url: /#
