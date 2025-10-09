@@ -1,3 +1,3 @@
 # Welcome to the github repository of my homepage!
 
-[Homepage of Ziffer Zifan Peng](https://www.ziffer.top)
+[Homepage of Eldric](https://www.ziffer.top)
