@@ -16,8 +16,9 @@ excerpt: "My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Fi
 
 <!-- Ziffer Zifan Peng (彭子帆) is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. He is co-supervised by [Prof. Xinlei He](https://xinleihe.github.io/) and [Prof. Yingjie Xue](https://yingjiexue-brown.github.io/). His current research interests lay in Trustworthy AI and Decentralized Finance. -->
 
-My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). I obtained Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. My current research interests lay in Trustworthy AI and Decentralized Finance. I am co-supervised by [Prof. Xinlei He](https://xinleihe.github.io/), [Prof. Xuechao Wang](https://xuechao2.github.io/), and [Prof. Yingjie Xue](https://yingjiexue-brown.github.io/). My current research interests lay in Security in AI and Decentralized Finance.
+My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). I obtained Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. My current research interests lay in Trustworthy AI and Decentralized Finance. I am co-supervised by [Prof. Xinlei He](https://xinleihe.github.io/) and [Prof. Xuechao Wang](https://xuechao2.github.io/). My current research interests lay in Security in AI and Decentralized Finance.
 
+<!-- , and [Prof. Yingjie Xue](https://yingjiexue-brown.github.io/) -->
 
 #### Education
 
