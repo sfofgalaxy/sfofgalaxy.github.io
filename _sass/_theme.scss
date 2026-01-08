@@ -455,3 +455,14 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+// Publications page: smaller font size for lists (two sizes smaller: zeta -> eta -> theta)
+body.publications .typeset {
+  ul, ol {
+    @include baseline(theta, $bodytype, 2, 2, all);
+    
+    li {
+      font-feature-settings: 'kern', 'onum', 'liga';
+    }
+  }
+}

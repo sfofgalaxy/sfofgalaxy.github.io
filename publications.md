@@ -12,12 +12,9 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 </small>
 
 ##### 2026
-<small>
 - **Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He. (2026). MATEX: A Multi-Agent Framework for Explaining Ethereum Transactions. *Arxiv 2512.06933* [DOI](https://arxiv.org/abs/2512.06933) 
-</small>
 
 ##### 2025
-<small>
 - **Zifan Peng**, etc. (2025). NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents. *Arxiv 2512.12730* [DOI](https://arxiv.org/abs/2512.12730) 
 
 - Peixian Zhang\*, Qiming Ye\*, **Zifan Peng**, Kiran Garimella, Gareth Tyson (2025). Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines. *Arxiv 2512.09483* [DOI](https://arxiv.org/abs/2512.09483) 
@@ -39,11 +36,7 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 - Xiang Liu, Mingchen Li, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li (2025). Automatic Pruning via Structured Lasso with Class-wise Information. *arXiv:2502.09125* [DOI](https://arxiv.org/abs/2502.09125) 
 - **Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2025). Prompt-based contrastive learning to combat the COVID-19 infodemic. *Machine Learning, 114 (1), 6.* [DOI](https://doi.org/10.1007/s10994-024-06731-8) 
 - Jingyu Liu, Yingjie Xue, **Zifan Peng**, Chao Lin, and Xinyi Huang (2025). FairRelay: Fair and Cost-Efficient Peer-to-Peer Content Delivery through Payment Channel Networks. *TDSC* [DOI](https://www.computer.org/csdl/journal/tq/5555/01/11269694/2bXLhIsPzkQ) 
-</small>
 
 ##### 2024 and before
-<small>
 
 - **Zifan Peng**, Mingchen Li, Yue Wang, and George T.S. Ho (2023). Combating the COVID-19 infodemic using Prompt-Based curriculum learning. *Expert Systems with Applications, 229, 120501.* [DOI](https://doi.org/10.1016/j.eswa.2023.120501) 
-
-</small>
