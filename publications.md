@@ -12,6 +12,8 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 </small>
 
 ##### 2026
+- **Zifan Peng**, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong, Xinlei He, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang (2025). JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models *The International Conference on Learning Representations (ICLR) 2026* [DOI](https://www.arxiv.org/abs/2505.17568) 
+
 - **Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He. (2026). MATEX: A Multi-Agent Framework for Explaining Ethereum Transactions. *Arxiv 2512.06933* [DOI](https://arxiv.org/abs/2512.06933) 
 
 ##### 2025
@@ -28,7 +30,6 @@ You check out on the [Google Scholar {% include icon.html id="googlescholar" tit
 - Jingyi Zheng\*, **Zifan Peng**\*, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He (2025). GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts. *arXiv:2507.15761* [DOI](https://arxiv.org/abs/2507.15761) 
 - **Zifan Peng**, Yingjie Xue, and Jingyu Liu (2024). Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach. *IEEE International Conference on Web Services (ICWS) '25* [DOI](https://arxiv.org/abs/2410.15724)
 
-- **Zifan Peng**, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong, Xinlei He, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang (2025). JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models *arXiv:2505.17568* [DOI](https://www.arxiv.org/abs/2505.17568) 
 - Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo (2025). ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities. *arXiv:2508.14377* [DOI](https://arxiv.org/abs/2508.14377) 
 - Ziyi Zhang, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He (2025). "I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments. *arXiv:2505.04488* [DOI](https://arxiv.org/abs/2505.04488) 
 - Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He (2025). Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models. *arXiv:2504.13626* [DOI](https://arxiv.org/abs/2504.13626) 
