@@ -1,7 +1,7 @@
 ---
 title: About
 feature_text: |
-  # Welcome and have a nice day!
+  # Welcome to my homepage!
 feature_image: "/assets/homepage.jpg"
 excerpt: "My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou). I obtained Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. My current research interests lay in Trustworthy AI and Decentralized Finance."
 ---
