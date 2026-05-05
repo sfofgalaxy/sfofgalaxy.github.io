@@ -21,7 +21,7 @@ three modules, with each module being taken during one regular term. May be grad
 - <small>Reviewer, **ACL 2026**</small>
 - <small>Reviewer, **The International AAAI Conference on Web and Social Media (ICWSM) 2026**</small>
 - <small>Reviewer, **USENIX Security AE Program Committee (2026)**</small>
-- <small>Reviewer, **45th IEEE International Conference on Distributed Computing Systems (ICDSC) 2026**</small>
+- <small>Reviewer, **45th IEEE International Conference on Distributed Computing Systems (ICDCS) 2026**</small>
 - <small>Reviewer, **ACM Multimedia (MM) 2025**</small>
 - <small>Reviewer, **The Web Conference (WWW) 2025**</small>
 - <small>Reviewer, **IEEE Transactions on Dependable and Secure Computing (TDSC)**</small>
