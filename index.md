@@ -130,7 +130,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 </section>
 
 <section class="home-section visit-tracker" aria-label="Visit tracker">
-  <a class="tracker-card" href="https://clustrmaps.com/site/1bvqh" title="Visit tracker">
   <a class="tracker-card" href='https://clustrmaps.com/site/1bvqh'  title='Visit tracker'>
     <span class="tracker-label">{% include icon.html name="location" %}</span>
     <img src=src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&co=70bcf2' alt="Visit tracker map" loading="lazy">
