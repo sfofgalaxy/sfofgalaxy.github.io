@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include site-shell-start.html %}
+
+<section class="page-heading">
+  <p class="section-kicker">{% include icon.html name="blog" %}<span>Notes</span></p>
+  <h1>Notes, updates, and reflections</h1>
+  <p>Research news, personal notes, publication reflections, and occasional writing from the current site archive.</p>
+</section>
+
+<section class="blog-list" aria-label="Notes and posts">
+  {% for post in site.posts %}
+    <article class="blog-card">
+      <div class="blog-meta">
+        {% include icon.html name="calendar" %}
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+      </div>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 180 }}</p>
+      {% if post.categories %}
+        <div class="tag-row">
+          {% for category in post.categories %}
+            <span>{{ category }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </article>
+  {% endfor %}
+</section>
+
+{% include site-shell-end.html %}

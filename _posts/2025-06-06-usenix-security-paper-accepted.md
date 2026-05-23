@@ -5,8 +5,6 @@ categories:
 - Publications
 excerpt: |
   Our paper "The Rising Threat to Emerging AI-Powered..." has been accepted to appear at USENIX Security '25 (CCF A), one of the top-tier security conferences.
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
 ---
 
 Our paper ("The Rising Threat to Emerging AI-Powered...") has been **accepted** to appear at **USENIX Security '25**.

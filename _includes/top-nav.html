@@ -1,0 +1,31 @@
+<header class="site-topbar">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="topbar-inner">
+    <a class="site-brand" href="{{ "/" | relative_url }}">Zifan Peng</a>
+    <nav class="top-nav" aria-label="Primary navigation">
+      {% for item in site.navigation_header %}
+        {% if item.url contains '://' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+
+        {% assign is_current = false %}
+        {% if page.collection == "posts" %}
+          {% if item.url == "/blog/" %}
+            {% assign is_current = true %}
+          {% endif %}
+        {% elsif item.url == "/" and page.url == "/" %}
+          {% assign is_current = true %}
+        {% elsif item.url != "/" and page.url contains item.url %}
+          {% assign is_current = true %}
+        {% endif %}
+
+        <a class="top-nav-link{% if is_current %} is-current{% endif %}" href="{{ url }}">
+          {% include icon.html name=item.icon %}
+          <span>{{ item.title }}</span>
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>

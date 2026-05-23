@@ -5,8 +5,6 @@ categories:
 - Publications
 excerpt: |
   Two papers were accepted to NeurIPS 2025: CHASM (covert ads detection) and SuperGPQA (scaling LLM evaluation across 285 disciplines).
-feature_image: "/assets/homepage.jpg"
-image: "/assets/homepage.jpg"
 ---
 
 We are delighted to announce that two papers have been accepted to NeurIPS 2025:
@@ -15,5 +13,4 @@ We are delighted to announce that two papers have been accepted to NeurIPS 2025:
 2. SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines — arXiv: https://arxiv.org/abs/2502.14739
 
 We look forward to sharing our work at the conference.
-
 

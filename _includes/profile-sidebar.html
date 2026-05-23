@@ -1,0 +1,37 @@
+<aside class="profile-rail" aria-label="Profile summary">
+  <div class="profile-card">
+    <img class="profile-avatar" src="{{ "/assets/avatar.jpg" | relative_url }}" alt="Portrait of Zifan Peng">
+    <p class="profile-name">Zifan Peng</p>
+    <p class="profile-title">
+      Ph.D. Candidate in Financial Technology at
+      <a href="https://hkust-gz.edu.cn/">HKUST (GZ)</a>.
+    </p>
+
+    <dl class="profile-facts">
+      <div>
+        <dt>{% include icon.html name="target" %}<span>Focus</span></dt>
+        <dd class="focus-links">
+          <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
+          <a href="{{ "/research/#decentralized-systems" | relative_url }}">{% include icon.html name="network" %}<span>DeFi & Blockchain</span></a>
+          <a href="{{ "/research/#human-centered-ai" | relative_url }}">{% include icon.html name="users" %}<span>Human & Society-Centered AI</span></a>
+        </dd>
+      </div>
+      <div>
+        <dt>{% include icon.html name="location" %}<span>Location</span></dt>
+        <dd>Guangzhou, China</dd>
+      </div>
+      <div>
+        <dt>{% include icon.html name="mail" %}<span>Email</span></dt>
+        <dd><span class="email-text">{{ site.email }}</span></dd>
+      </div>
+    </dl>
+
+    <div class="profile-links" aria-label="Profile links">
+      <a href="https://scholar.google.com/citations?user=2M8-SOwAAAAJ">{% include icon.html name="scholar" %}<span>Google Scholar</span></a>
+      <a href="https://github.com/sfofgalaxy">{% include icon.html name="github" %}<span>GitHub</span></a>
+      <a href="https://www.linkedin.com/in/zifan-peng-968205219/">{% include icon.html name="linkedin" %}<span>LinkedIn</span></a>
+      <a href="https://twitter.com/sfofgalaxy">{% include icon.html name="twitter" %}<span>Twitter</span></a>
+      <a href="https://www.instagram.com/ziffer99/">{% include icon.html name="instagram" %}<span>Instagram</span></a>
+    </div>
+  </div>
+</aside>

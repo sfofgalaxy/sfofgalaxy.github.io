@@ -2,24 +2,25 @@
 layout: default
 ---
 
-{% include site-header.html %}
+{% include site-shell-start.html %}
 
-<main class="main  container">
+<article class="post-detail typeset">
+  <a class="back-link" href="{{ "/blog/" | relative_url }}">{% include icon.html name="arrow-left" %}<span>Back to Notes</span></a>
+  <div class="blog-meta">
+    {% include icon.html name="calendar" %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+  <h1>{{ page.title }}</h1>
 
-  <article class="article  article--post  content  typeset">
+  {{ content }}
 
-    <h1>{{ page.title }}</h1>
-    {% include post-meta.html %}
-    {{ content }}
+  {% if page.categories %}
+    <div class="tag-row post-tags">
+      {% for category in page.categories %}
+        <span>{{ category }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+</article>
 
-    {% include nav-share.html %}
-
-    {% include post-comments.html %}
-
-  </article>
-
-  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
-
-</main>
-
-{% include site-footer.html %}
+{% include site-shell-end.html %}

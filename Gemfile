@@ -1,12 +1,10 @@
-source 'https://rubygems.org' #配置Netfily的话，因为其服务器在国外，因此用此源
-# source 'https://gems.ruby-china.com' #本地执行的时候为了加速，将源改为ruby-china
-gem "jekyll"
-gem 'jekyll-sitemap'
-gem 'jekyll-paginate'
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
-gem 'jekyll-seo-tag'
-gem 'jekyll-redirect-from'
-gem 'jekyll-commonmark'
-gem 'jekyll-include-cache'
-gem 'jemoji'
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3.3"
+gem "jekyll-sass-converter", "~> 2.2"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-seo-tag", "~> 2.8"
+gem "jekyll-redirect-from", "~> 0.16"
+gem "ffi", "1.16.3"
+gem "webrick", "~> 1.8"
