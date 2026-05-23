@@ -19,9 +19,12 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
+- .bundle
+- .gem
 - .jekyll-cache
 - .ruby-version
 - netlify.toml
+- vendor
 - archived
 
 # 2. Installed Gems
@@ -85,7 +88,7 @@ description: "Ph.D. Candidate in Financial Technology at HKUST (GZ), working on 
 url: "https://www.ziffer.top" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/sfofgalaxy"
-email: "sfofgalaxy<AT>gmail"
+email: "sfofgalaxy<AT>gmail.com"
 # date_format: "%-d %B %Y" # Post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""

@@ -129,7 +129,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <p class="section-kicker">{% include icon.html name="contact" %}<span>Contact</span></p>
     <h2>Get in touch</h2>
   </div>
-  <p>Feel free to drop a message here or send an email directly: <span class="email-text">{{ site.email }}</span>.</p>
+  Feel free to drop a message here or send an email directly.
   {% include site-form.html %}
 </section>
 
