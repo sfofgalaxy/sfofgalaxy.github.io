@@ -548,7 +548,8 @@ img {
 }
 
 .tracker-widget {
-  max-width: min(520px, 100%);
+  width: 100%;
+  max-width: 520px;
 }
 
 .tracker-widget :where(img, iframe, canvas, svg) {
