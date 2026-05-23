@@ -538,12 +538,6 @@ img {
   color: var(--blue);
 }
 
-.tracker-card:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 16px 32px rgba(38, 54, 72, 0.1), 0 2px 10px rgba(38, 54, 72, 0.06);
-  text-decoration: none;
-}
-
 .tracker-label {
   display: inline-flex;
   align-items: center;
@@ -553,10 +547,14 @@ img {
   font-weight: 760;
 }
 
-.tracker-card img {
+.tracker-widget {
+  max-width: min(520px, 100%);
+}
+
+.tracker-widget :where(img, iframe, canvas, svg) {
   display: block;
   width: 100%;
-  max-width: 520px;
+  max-width: 100%;
   height: auto;
   border-radius: 6px;
 }
