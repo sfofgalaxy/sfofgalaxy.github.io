@@ -525,15 +525,15 @@ img {
 }
 
 .tracker-card {
-  display: inline-flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 14px;
-  max-width: 100%;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  max-width: 720px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
-  padding: 12px 14px;
+  padding: 16px;
   box-shadow: var(--card-shadow);
   color: var(--blue);
 }
@@ -548,14 +548,16 @@ img {
 }
 
 .tracker-widget {
+  flex: 1 1 auto;
   width: 100%;
-  max-width: 520px;
+  max-width: 640px;
+  min-height: 190px;
 }
 
-.tracker-widget :where(img, iframe, canvas, svg) {
+.tracker-widget :where(a, div, img, iframe, canvas, svg) {
   display: block;
-  width: 100%;
-  max-width: 100%;
+  width: 100% !important;
+  max-width: 100% !important;
   height: auto;
   border-radius: 6px;
 }
@@ -1123,5 +1125,13 @@ body.modal-open {
   .publication-card {
     grid-template-columns: 1fr;
     gap: 8px;
+  }
+
+  .tracker-card {
+    flex-direction: column;
+  }
+
+  .tracker-widget {
+    max-width: 100%;
   }
 }
