@@ -5,7 +5,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 ---
 
 <section class="intro-card">
-  <p class="section-kicker">{% include icon.html name="research" %}<span>Research Theme</span></p>
+  <p class="section-kicker">{% include icon.html name="research" %}<span>About</span></p>
   <p class="intro-lead">
     My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Technology at
     <a href="https://hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
@@ -31,7 +31,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 <section class="home-section" id="news">
   <div class="section-heading">
     <p class="section-kicker">{% include icon.html name="news" %}<span>News</span></p>
-    <h2>Recent updates</h2>
   </div>
   <div class="news-panel">
     {% for post in site.posts limit:5 %}
@@ -49,7 +48,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 <section class="home-section" id="experience">
   <div class="section-heading">
     <p class="section-kicker">{% include icon.html name="work" %}<span>Experience</span></p>
-    <h2>Education, work, teaching, and service</h2>
   </div>
 
   <div class="experience-grid">
@@ -126,7 +124,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 <section class="home-section contact-section" id="contact">
   <div class="section-heading">
     <p class="section-kicker">{% include icon.html name="contact" %}<span>Contact</span></p>
-    <h2>Get in touch</h2>
   </div>
   Feel free to drop a message here or send an email directly.
   {% include site-form.html %}
@@ -134,7 +131,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 
 <section class="home-section visit-tracker" aria-label="Visit tracker">
   <a class="tracker-card" href="https://clustrmaps.com/site/1bvqh" title="Visit tracker">
-    <span class="tracker-label">{% include icon.html name="location" %}<span>Visit tracker</span></span>
+    <span class="tracker-label">{% include icon.html name="location" %}</span>
     <img src="https://www.clustrmaps.com/map_v2.png?d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&cl=ffffff" alt="Visit tracker map" loading="lazy">
   </a>
 </section>
