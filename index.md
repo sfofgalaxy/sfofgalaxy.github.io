@@ -6,7 +6,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 
 <section class="intro-card">
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research Theme</span></p>
-  <h1>Trustworthy AI and DeFi & Blockchain</h1>
   <p class="intro-lead">
     My name is Ziffer Zifan Peng (彭子帆). I am a Ph.D. Candidate in Financial Technology at
     <a href="https://hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
