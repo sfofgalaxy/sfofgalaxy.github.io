@@ -74,14 +74,13 @@ excerpt: "Teaching, service, education, and professional experience."
     <h3>{% include icon.html name="service" %}<span>Service</span></h3>
     <div class="compact-list service-columns">
       <p class="service-role-title">Reviewer or AC</p>
-      <p>ACL 2026</p>
-      <p>ICWSM 2026</p>
-      <p>Security AE 2026</p>
-      <p>ICDCS 2026</p>
-      <p>MM 2026</p>
+      <p>ACL</p>
+      <p>ICWSM</p>
+      <p>Security AE</p>
+      <p>ICDCS</p>
+      <p>MM</p>
       <p>TDSC</p>
-      <p>MM 2025</p>
-      <p>WWW 2025</p>
+      <p>WWW</p>
       <p class="service-wide">ACM Conference on AI and Agentic Systems</p>
     </div>
   </section>
