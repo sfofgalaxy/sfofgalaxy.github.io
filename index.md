@@ -20,6 +20,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
     <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>, and
     <a href="{{ "/research/#human-centered-ai" | relative_url }}">Human & Society-Centered AI</a>.
+    Recently, I have also been exploring safety and privacy for embodied AI systems, with related ongoing projects in progress.
   </p>
   <div class="interest-pills" aria-label="Research interests">
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>

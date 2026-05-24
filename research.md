@@ -12,9 +12,10 @@ excerpt: "Research topics and publications by Zifan Peng."
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research</span></p>
   <h1>Problems I keep returning to</h1>
   <p>
-    My work sits between Trustworthy AI,
-    decentralized financial systems, and
-    human-centered evaluation. The topic blocks below jump to the publication cards in each area.
+    My research focuses on Trustworthy AI, DeFi & Blockchain, and Human & Society-Centered AI,
+    with a recent emphasis on safety and privacy for embodied AI systems.
+    I am also developing ongoing projects around trustworthy agents and real-world AI deployment.
+    The topic blocks below jump to the publication cards in each area.
   </p>
 </section>
 
