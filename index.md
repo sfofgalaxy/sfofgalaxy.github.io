@@ -18,8 +18,8 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="https://yingjiexue-brown.github.io/">Dr. Yingjie Xue</a>.
     My current research interests lie in
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
-    <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>, and
-    <a href="{{ "/research/#human-centered-ai" | relative_url }}">Human & Society-Centered AI</a>.
+    <a href="{{ "/research/#human-centered-ai" | relative_url }}">Human & Society-Centered AI</a>, and
+    <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>.
     Recently, I have also been exploring safety and privacy for embodied AI.
   </p>
   <div class="interest-pills" aria-label="Research interests">
