@@ -25,8 +25,8 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
   </p>
   <div class="interest-pills" aria-label="Research interests">
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
-    <a href="{{ "/research/#decentralized-systems" | relative_url }}">{% include icon.html name="network" %}<span>DeFi & Blockchain</span></a>
     <a href="{{ "/research/#human-centered-ai" | relative_url }}">{% include icon.html name="users" %}<span>Human-Centered AI</span></a>
+    <a href="{{ "/research/#decentralized-systems" | relative_url }}">{% include icon.html name="network" %}<span>DeFi & Blockchain</span></a>
   </div>
 </section>
 
@@ -149,10 +149,14 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <section class="experience-block">
       <h3>{% include icon.html name="service" %}<span>Service</span></h3>
       <div class="compact-list service-columns">
+        <p class="service-role-title">Reviewer or AC</p>
         <p>ACL 2026</p>
         <p>ICWSM 2026</p>
         <p>USENIX Security AE 2026</p>
         <p>ICDCS 2026</p>
+        <p>ACM MM 2026</p>
+        <p>IEEE TDSC 2026</p>
+        <p><a href="https://www.agentskills-workshop.org/">Agent Skills '26</a></p>
         <p>ACM Multimedia 2025</p>
         <p>The Web Conference 2025</p>
       </div>

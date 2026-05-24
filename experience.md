@@ -73,10 +73,14 @@ excerpt: "Teaching, service, education, and professional experience."
   <section class="experience-block">
     <h3>{% include icon.html name="service" %}<span>Service</span></h3>
     <div class="compact-list service-columns">
+      <p class="service-role-title">Reviewer or AC</p>
       <p>ACL 2026</p>
       <p>ICWSM 2026</p>
       <p>USENIX Security AE 2026</p>
       <p>ICDCS 2026</p>
+      <p>ACM MM 2026</p>
+      <p>IEEE TDSC 2026</p>
+      <p><a href="https://www.agentskills-workshop.org/">Agent Skills '26</a></p>
       <p>ACM Multimedia 2025</p>
       <p>The Web Conference 2025</p>
     </div>

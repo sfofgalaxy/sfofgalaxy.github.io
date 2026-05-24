@@ -586,6 +586,12 @@ img {
   column-gap: 14px;
 }
 
+.service-role-title {
+  grid-column: 1 / -1;
+  color: #26323d !important;
+  font-weight: 560;
+}
+
 .contact-section {
   border-top: 1px solid var(--line);
   padding-top: 32px;
