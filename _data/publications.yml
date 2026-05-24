@@ -1,3 +1,31 @@
+- title: "On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models"
+  authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He"
+  venue: "arXiv preprint arXiv:2605.09606"
+  year: 2026
+  topic: trustworthy-ai
+  summary: "This work measures whether image-to-3D systems can generate harmful geometries and evaluates geometry-aware safeguards."
+  abstract: >-
+    Image-to-3D systems make 3D content creation more accessible, but they can also reconstruct unsafe physical geometries that may create real-world risks. This work studies harmful geometry generation across direct-use physical hazards, risky components, and deceptive replicas, evaluating open-source and commercial systems under original, degraded, viewpoint-shifted, and semantically camouflaged inputs. It combines geometric validity checks, multi-view vision-language scoring, human validation, and controlled fabrication to assess risk and moderation. The results show that existing safeguards rarely catch such outputs, and the paper evaluates input moderation, model-level alignment, output filtering, and a stacked defense as first steps toward better geometry-aware safeguards.
+  webpage: "https://arxiv.org/abs/2605.09606"
+  badges:
+    - "arXiv 2026"
+  links:
+    - label: DOI
+      url: "https://arxiv.org/abs/2605.09606"
+- title: "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents"
+  authors: "**Zifan Peng**, Mingchen Li"
+  venue: "arXiv preprint arXiv:2603.28551"
+  year: 2026
+  topic: human-centered-ai
+  summary: "This work studies how users understand and audit computer-use agents after delegated tasks."
+  abstract: >-
+    Personalized computer-use agents can install skills, invoke tools, access private resources, and modify local environments, leaving users uncertain about delegated authority, executed actions, and persistent side effects. This work investigates risk understanding and post-hoc auditability using OpenClaw as a motivating case. It builds a multi-source ecosystem corpus and conducts interviews about skills, autonomy, privilege, persistence, and uninstallation. Motivated by the findings, it proposes AgentTrace, a traceability framework and prototype interface that visualizes agent actions, touched resources, permission history, provenance, and persistent side effects. A scenario-based evaluation suggests that these views can help users understand agent behavior, detect anomalies, and calibrate trust.
+  webpage: "https://arxiv.org/abs/2603.28551"
+  badges:
+    - "arXiv 2026"
+  links:
+    - label: DOI
+      url: "https://arxiv.org/abs/2603.28551"
 - title: "GPLab: A Generative Agent-Based Framework for Policy Simulation and Evaluation"
   authors: "Shuhan Zhang, **Zifan Peng**, Yinwang Ren"
   venue: "Journal of Artificial Societies & Social Simulation, 29(1), 1"
@@ -101,7 +129,7 @@
     - label: DOI
       url: "https://neurips.cc/virtual/2025/poster/121625"
 - title: "SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines"
-  authors: "M-A-P Team et al., including **Zifan Peng**"
+  authors: "**Zifan Peng**, etc."
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
   topic: human-centered-ai
@@ -171,7 +199,7 @@
     - label: DOI
       url: "https://arxiv.org/abs/2508.14377"
 - title: "\"I Can See Forever!\": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments"
-  authors: "Ziyi Zhang, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He"
+  authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He"
   venue: "arXiv preprint arXiv:2505.04488"
   year: 2025
   topic: human-centered-ai
@@ -199,7 +227,7 @@
     - label: DOI
       url: "https://arxiv.org/abs/2504.13626"
 - title: "Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications"
-  authors: "Wenhan Dong, Yuemeng Zhao, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He"
+  authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He"
   venue: "arXiv preprint arXiv:2505.00049"
   year: 2025
   topic: human-centered-ai
@@ -213,7 +241,7 @@
     - label: DOI
       url: "https://arxiv.org/abs/2505.00049"
 - title: "Automatic Pruning via Structured Lasso with Class-wise Information"
-  authors: "Xiang Liu, Mingchen Li, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li"
+  authors: "Xiang Liu*, Mingchen Li*, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li"
   venue: "arXiv preprint arXiv:2502.09125"
   year: 2025
   topic: human-centered-ai
