@@ -76,13 +76,13 @@ excerpt: "Teaching, service, education, and professional experience."
       <p class="service-role-title">Reviewer or AC</p>
       <p>ACL 2026</p>
       <p>ICWSM 2026</p>
-      <p>USENIX Security AE 2026</p>
+      <p>Security AE 2026</p>
       <p>ICDCS 2026</p>
-      <p>ACM MM 2026</p>
-      <p>IEEE TDSC 2026</p>
-      <p><a href="https://www.agentskills-workshop.org/">Agent Skills '26</a></p>
-      <p>ACM Multimedia 2025</p>
-      <p>The Web Conference 2025</p>
+      <p>MM 2026</p>
+      <p>TDSC</p>
+      <p>MM 2025</p>
+      <p>WWW 2025</p>
+      <p class="service-wide">ACM Conference on AI and Agentic Systems</p>
     </div>
   </section>
 </section>

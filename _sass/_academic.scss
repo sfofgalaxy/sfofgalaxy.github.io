@@ -592,6 +592,10 @@ img {
   font-weight: 560;
 }
 
+.service-wide {
+  grid-column: 1 / -1;
+}
+
 .contact-section {
   border-top: 1px solid var(--line);
   padding-top: 32px;
