@@ -12,7 +12,7 @@ excerpt: "Research topics and publications by Zifan Peng."
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research</span></p>
   <h1>Problems I keep returning to</h1>
   <p>
-    My research focuses on Trustworthy AI, Human & Society-Centered AI, and DeFi & Blockchain,
+    My research focuses on Trustworthy AI, Human-Centered AI, and DeFi & Blockchain,
     with a recent emphasis on safety and privacy for embodied AI systems.
   </p>
 </section>

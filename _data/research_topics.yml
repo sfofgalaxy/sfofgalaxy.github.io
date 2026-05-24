@@ -6,7 +6,7 @@
   icon: shield
 - id: human-centered-ai
   label: "02"
-  title: Human & Society-Centered AI
+  title: Human-Centered AI
   summary: "LLM evaluation, policy simulation, cognitive assessment, visual assistance, human-agent applications, and applied machine learning."
   accent: social
   icon: users
