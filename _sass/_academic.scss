@@ -389,9 +389,9 @@ img {
 .news-row {
   display: grid;
   grid-template-columns: 112px minmax(0, 1fr);
-  align-items: center;
-  gap: 18px;
-  padding: 13px 18px;
+  align-items: start;
+  gap: 12px;
+  padding: 10px 18px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -408,13 +408,13 @@ img {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  color: var(--coral);
+  color: var(--muted);
 }
 
 .news-date time,
 .blog-meta time {
-  color: var(--blue);
-  font-weight: 900;
+  color: #3f4a53;
+  font-weight: 500;
   font-variant-numeric: tabular-nums;
 }
 
@@ -424,15 +424,69 @@ img {
 
 .news-row h3 {
   margin: 0;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.35;
-  font-weight: 600;
+  font-weight: 400;
 }
 
+.news-text,
 .news-row p {
   margin: 0;
-  color: var(--muted);
+  color: #4f5962;
   font-size: 14px;
+  line-height: 1.45;
+  font-weight: 400;
+}
+
+.news-text em {
+  color: var(--coral);
+  font-style: italic;
+}
+
+.news-text a {
+  color: inherit;
+  font-weight: 500;
+}
+
+.news-more {
+  border-top: 0;
+}
+
+.news-more summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin: 10px 18px 12px;
+  color: #4f5962;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
+  list-style: none;
+}
+
+.news-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-more summary:hover {
+  color: var(--blue);
+}
+
+.news-more .site-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.news-more[open] summary {
+  margin-bottom: 10px;
+}
+
+.news-more-list {
+  border-top: 1px solid var(--line);
+}
+
+.news-more-list .news-row:last-child {
+  border-bottom: 0;
 }
 
 .experience-grid {
