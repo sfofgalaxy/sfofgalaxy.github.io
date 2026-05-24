@@ -14,8 +14,6 @@ excerpt: "Research topics and publications by Zifan Peng."
   <p>
     My research focuses on Trustworthy AI, DeFi & Blockchain, and Human & Society-Centered AI,
     with a recent emphasis on safety and privacy for embodied AI systems.
-    I am also developing ongoing projects around trustworthy agents and real-world AI deployment.
-    The topic blocks below jump to the publication cards in each area.
   </p>
 </section>
 
