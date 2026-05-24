@@ -659,12 +659,6 @@ input[type="submit"]:hover {
   gap: 12px;
 }
 
-.topic-index {
-  display: inline-flex;
-  align-items: center;
-  gap: 9px;
-}
-
 .topic-jump .topic-number {
   width: 38px;
   height: 38px;
@@ -675,12 +669,6 @@ input[type="submit"]:hover {
   background: var(--blue);
   font-size: 13px;
   font-weight: 900;
-}
-
-.topic-index .site-icon {
-  width: 32px;
-  height: 32px;
-  color: var(--blue);
 }
 
 .topic-count {
@@ -695,10 +683,20 @@ input[type="submit"]:hover {
 }
 
 .topic-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
   font-size: 18px;
   line-height: 1.25;
   color: #182530;
   font-weight: 750;
+}
+
+.topic-title .site-icon {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  color: var(--blue);
 }
 
 .topic-jump p {
@@ -711,7 +709,7 @@ input[type="submit"]:hover {
   background: var(--teal);
 }
 
-.topic-defi .topic-index .site-icon {
+.topic-defi .topic-title .site-icon {
   color: var(--teal);
 }
 
@@ -719,7 +717,7 @@ input[type="submit"]:hover {
   background: var(--coral);
 }
 
-.topic-social .topic-index .site-icon {
+.topic-social .topic-title .site-icon {
   color: var(--coral);
 }
 

@@ -23,13 +23,10 @@ excerpt: "Research topics and publications by Zifan Peng."
     {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
     <a class="topic-jump topic-{{ topic.accent }}" href="#{{ topic.id }}">
       <span class="topic-jump-meta">
-        <span class="topic-index">
-          <span class="topic-number">{{ topic.label }}</span>
-          {% include icon.html name=topic.icon %}
-        </span>
+        <span class="topic-number">{{ topic.label }}</span>
         <span class="topic-count">{{ topic_papers | size }} papers</span>
       </span>
-      <span class="topic-title">{{ topic.title }}</span>
+      <span class="topic-title">{% include icon.html name=topic.icon %}<span>{{ topic.title }}</span></span>
       <p>{{ topic.summary }}</p>
     </a>
   {% endfor %}
@@ -41,7 +38,7 @@ excerpt: "Research topics and publications by Zifan Peng."
   {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
   <section class="research-topic-section" id="{{ topic.id }}">
     <div class="topic-section-heading">
-      <p class="section-kicker">{% include icon.html name=topic.icon %}<span>Topic {{ topic.label }} · {{ topic_papers | size }} papers</span></p>
+      <p class="section-kicker"><span>Topic {{ topic.label }} · {{ topic_papers | size }} papers</span></p>
       <h2>{{ topic.title }}</h2>
       <p>{{ topic.summary }}</p>
     </div>
