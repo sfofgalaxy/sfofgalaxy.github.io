@@ -20,9 +20,15 @@ excerpt: "Research topics and publications by Zifan Peng."
 
 <section class="topic-jump-grid" aria-label="Research topic navigation">
   {% for topic in site.data.research_topics %}
+    {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
     <a class="topic-jump topic-{{ topic.accent }}" href="#{{ topic.id }}">
-      <span class="topic-number">0{{ forloop.index }}</span>
-      {% include icon.html name=topic.icon %}
+      <span class="topic-jump-meta">
+        <span class="topic-index">
+          <span class="topic-number">{{ topic.label }}</span>
+          {% include icon.html name=topic.icon %}
+        </span>
+        <span class="topic-count">{{ topic_papers | size }} papers</span>
+      </span>
       <span class="topic-title">{{ topic.title }}</span>
       <p>{{ topic.summary }}</p>
     </a>
@@ -35,7 +41,7 @@ excerpt: "Research topics and publications by Zifan Peng."
   {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
   <section class="research-topic-section" id="{{ topic.id }}">
     <div class="topic-section-heading">
-      <p class="section-kicker">{% include icon.html name=topic.icon %}<span>Topic 0{{ forloop.index }}</span></p>
+      <p class="section-kicker">{% include icon.html name=topic.icon %}<span>Topic {{ topic.label }} · {{ topic_papers | size }} papers</span></p>
       <h2>{{ topic.title }}</h2>
       <p>{{ topic.summary }}</p>
     </div>

@@ -1,14 +1,17 @@
 - id: trustworthy-ai
+  label: A
   title: Trustworthy AI
   summary: "Jailbreak robustness, AI-powered search safety, privacy risk, covert content, and reliable evaluation for frontier AI systems."
   accent: safety
   icon: shield
 - id: decentralized-systems
+  label: B
   title: DeFi & Blockchain
   summary: "Secure and efficient decentralized protocols, smart contract analysis, gas optimization, payment channels, and cross-chain financial primitives."
   accent: defi
   icon: network
 - id: human-centered-ai
+  label: C
   title: Human & Society-Centered AI
   summary: "LLM evaluation, policy simulation, cognitive assessment, visual assistance, human-agent applications, and applied machine learning."
   accent: social
