@@ -1,6 +1,7 @@
 ---
 title: Home
 show_title: false
+news_toggle: true
 excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI and DeFi & Blockchain."
 ---
 
@@ -54,9 +55,14 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
       <div class="news-date"><time datetime="2025-05">2025.05</time></div>
       <p class="news-text">Our paper <em><a href="{{ "/blog/2025/05/15/cross-chain-options-bridgeless-universal-efficient-approach/" | relative_url }}">Cross-Chain Options</a></em> was accepted to ICWS 2025 as a regular full paper on bridgeless DeFi primitives.</p>
     </article>
-    <details class="news-more">
-      <summary>{% include icon.html name="plus" %}<span>Show more</span></summary>
-      <div class="news-more-list">
+    <details class="news-more" data-news-more>
+      <summary>
+        <span class="news-toggle-icon news-toggle-icon--more">{% include icon.html name="plus" %}</span>
+        <span class="news-toggle-icon news-toggle-icon--less">{% include icon.html name="minus" %}</span>
+        <span class="news-toggle-text news-toggle-text--more">Show more</span>
+        <span class="news-toggle-text news-toggle-text--less">Show less</span>
+      </summary>
+      <div class="news-more-list" data-news-more-content>
         <article class="news-row">
           <div class="news-date"><time datetime="2024-10">2024.10</time></div>
           <p class="news-text"><a href="{{ "/blog/2024/10/18/post/" | relative_url }}">I passed the PQE oral exam</a> and formally became a Ph.D. Candidate.</p>

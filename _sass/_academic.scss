@@ -477,12 +477,30 @@ img {
   height: 16px;
 }
 
+.news-toggle-icon,
+.news-toggle-text {
+  display: inline-flex;
+}
+
+.news-toggle-icon--less,
+.news-toggle-text--less,
+.news-more[open] .news-toggle-icon--more,
+.news-more[open] .news-toggle-text--more {
+  display: none;
+}
+
+.news-more[open] .news-toggle-icon--less,
+.news-more[open] .news-toggle-text--less {
+  display: inline-flex;
+}
+
 .news-more[open] summary {
   margin-bottom: 10px;
 }
 
 .news-more-list {
   border-top: 1px solid var(--line);
+  overflow: hidden;
 }
 
 .news-more-list .news-row:last-child {
