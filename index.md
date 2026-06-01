@@ -136,7 +136,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
           <p><a href="https://www.alibabagroup.com/en-US">AMap · Alibaba Group</a>, Beijing, China</p>
         </article>
         <article>
-          <span>2020.08 - 2020.11</span>
+          <span>2020</span>
           <p class="timeline-title">Software Engineering Intern</p>
           <p><a href="https://www.mindspore.cn/en">MindSpore, 2012 Labs</a>, Hangzhou, China</p>
         </article>
