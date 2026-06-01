@@ -123,12 +123,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
         <article>
           <span>2022</span>
           <p class="timeline-title">Research Assistant</p>
-          <p><a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
-        </article>
-        <article>
-          <span>2022</span>
-          <p class="timeline-title">Research Assistant</p>
-          <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a>, Hong Kong SAR</p>
+          <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a> & <a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
         </article>
         <article>
           <span>2021</span>
