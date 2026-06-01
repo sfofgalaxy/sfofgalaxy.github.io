@@ -135,6 +135,12 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
           <p class="timeline-title">Java Software Engineer Intern</p>
           <p><a href="https://www.alibabagroup.com/en-US">AMap · Alibaba Group</a>, Beijing, China</p>
         </article>
+        <article>
+          <span>2020.08 - 2020.11</span>
+          <p class="timeline-title">Software Engineering Intern</p>
+          <p>Huawei Technologies Co., Ltd. Hangzhou Research Institute, Hangzhou, China</p>
+          <p>Worked on cost-model calculation code for MindSpore at Data and Parallel Lab, 2012 Laboratories.</p>
+        </article>
       </div>
     </section>
 
