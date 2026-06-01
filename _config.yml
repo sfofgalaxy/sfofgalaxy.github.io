@@ -12,6 +12,9 @@ exclude:
 - netlify.toml
 - vendor
 
+include:
+- _pages
+
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
