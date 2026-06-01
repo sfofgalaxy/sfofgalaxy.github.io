@@ -2,7 +2,6 @@
   --bg: #f7f8f6;
   --surface: #ffffff;
   --surface-soft: #f2f7fb;
-  --surface-warm: #fbf6f1;
   --ink: #24303a;
   --muted: #64717d;
   --line: #dce5ed;
@@ -10,10 +9,8 @@
   --blue: #17447f;
   --blue-soft: #eaf2fb;
   --teal: #1f6f6b;
-  --teal-soft: #e7f4f2;
   --coral: #c9613c;
   --coral-soft: #faebe4;
-  --gold: #a26a15;
   --shadow: 0 20px 60px rgba(32, 49, 68, 0.08);
   --card-shadow: 0 14px 28px rgba(38, 54, 72, 0.08), 0 2px 8px rgba(38, 54, 72, 0.05);
   --radius: 8px;
@@ -190,7 +187,6 @@ img {
   box-shadow: 0 12px 34px rgba(32, 49, 68, 0.12);
 }
 
-.profile-eyebrow,
 .section-kicker {
   margin: 0 0 8px;
   color: var(--blue);
@@ -326,7 +322,6 @@ img {
   padding: 32px 36px;
 }
 
-.intro-card h1,
 .page-heading h1 {
   margin: 0 0 14px;
   color: #2c3843;
@@ -420,13 +415,6 @@ img {
 
 .blog-meta time {
   color: var(--coral);
-}
-
-.news-row h3 {
-  margin: 0;
-  font-size: 14px;
-  line-height: 1.35;
-  font-weight: 400;
 }
 
 .news-text,
@@ -607,15 +595,15 @@ img {
 }
 
 .tracker-card {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  width: 100%;
-  max-width: 720px;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  max-width: 100%;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
-  padding: 16px;
+  padding: 12px 14px;
   box-shadow: var(--card-shadow);
   color: var(--blue);
 }
@@ -629,17 +617,10 @@ img {
   font-weight: 760;
 }
 
-.tracker-widget {
-  flex: 1 1 auto;
-  width: 100%;
-  max-width: 640px;
-  min-height: 190px;
-}
-
-.tracker-widget :where(a, div, img, iframe, canvas, svg) {
+.tracker-card img {
   display: block;
-  width: 100% !important;
-  max-width: 100% !important;
+  width: 100%;
+  max-width: 520px;
   height: auto;
   border-radius: 6px;
 }
@@ -756,7 +737,7 @@ input[type="submit"]:hover {
 .topic-count {
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: var(--subtle);
+  background: var(--surface-soft);
   padding: 5px 10px;
   color: var(--muted);
   font-size: 12px;
@@ -1118,10 +1099,6 @@ body.modal-open {
   color: var(--muted);
 }
 
-.standalone-experience {
-  margin-top: 26px;
-}
-
 @media (max-width: 1050px) {
   .site-shell {
     grid-template-columns: 1fr;
@@ -1213,7 +1190,6 @@ body.modal-open {
     font-size: 28px;
   }
 
-  .intro-card h1,
   .page-heading h1,
   .post-detail h1 {
     font-size: 26px;
@@ -1234,7 +1210,7 @@ body.modal-open {
     flex-direction: column;
   }
 
-  .tracker-widget {
+  .tracker-card img {
     max-width: 100%;
   }
 }
