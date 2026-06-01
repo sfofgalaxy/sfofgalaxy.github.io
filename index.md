@@ -2,6 +2,7 @@
 title: Home
 show_title: false
 news_toggle: true
+visit_tracker: true
 excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI and DeFi & Blockchain."
 ---
 
@@ -171,9 +172,15 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
   {% include site-form.html %}
 </section>
 
-<section class="home-section visit-tracker" aria-label="Visit tracker">
+<section
+  class="home-section visit-tracker"
+  aria-label="Visit tracker"
+  data-clustrmaps-tracker
+  data-probe-src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&co=8ec7ef"
+  data-widget-src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=2ben3YzveUZsxGlDN7qE3EglP2r1PUu78IZ4eUw6rFU&co=8ec7ef"
+  hidden>
   <div class="tracker-card">
     <span class="tracker-label">{% include icon.html name="location" %}</span>
-    <img src="{{ "/assets/visitor-map.svg" | relative_url }}" alt="Visit tracker map" loading="lazy">
+    <div class="tracker-widget" data-clustrmaps-widget></div>
   </div>
 </section>
