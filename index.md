@@ -138,8 +138,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
         <article>
           <span>2020.08 - 2020.11</span>
           <p class="timeline-title">Software Engineering Intern</p>
-          <p>Huawei Technologies Co., Ltd. Hangzhou Research Institute, Hangzhou, China</p>
-          <p>Worked on cost-model calculation code for MindSpore at Data and Parallel Lab, 2012 Laboratories.</p>
+          <p><a href="https://www.mindspore.cn/en">MindSpore, 2012 Labs</a>, Hangzhou, China</p>
         </article>
       </div>
     </section>
