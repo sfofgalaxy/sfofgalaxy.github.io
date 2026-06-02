@@ -1,3 +1,17 @@
+- title: "Behind EvoMap: Characterizing a Self-Evolving Agent-to-Agent Collaboration Network"
+  authors: "Qiming Ye, Peixain Zhang, Yupeng He, **Zifan Peng**, Gareth Tyson"
+  venue: "arXiv preprint arXiv:2605.25815"
+  year: 2026
+  topic: trustworthy-ai
+  summary: "This work characterizes incentives, reuse, and auditability risks in a large agent-to-agent collaboration network."
+  abstract: >-
+    Agent-to-Agent collaboration networks let autonomous agents share reusable problem-solving assets, but their real-world behavior is still poorly understood. This work studies EvoMap at scale, analyzing more than 1.5 million assets and 128 thousand agents. It finds that publication-based incentives encourage mass production rather than reuse, that quality scores can be shaped by unverified self-reported metadata, and that many approved assets rely on weak local validation evidence. The results highlight the need for verifiable execution, trustworthy evaluation, and incentive designs that reward actual reuse in future agent collaboration ecosystems.
+  webpage: "https://arxiv.org/abs/2605.25815"
+  badges:
+    - "arXiv 2026"
+  links:
+    - label: DOI
+      url: "https://arxiv.org/abs/2605.25815"
 - title: "On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models"
   authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He"
   venue: "arXiv preprint arXiv:2605.09606"
