@@ -1,3 +1,17 @@
+- title: "What Your Posts Reveal: A Benchmark and Agentic Framework for User-Level Privacy Leakage on Social Media"
+  authors: "**Zifan Peng**, Yini Huang, Aiwen Lu, Qiming Ye, Peixian Zhang, Jingyi Zheng, Yule Liu, Xuechao Wang, Xinlei He, Jiaheng Wei"
+  venue: "arXiv preprint arXiv:2606.06784"
+  year: 2026
+  topic: trustworthy-ai
+  summary: "This work benchmarks user-level privacy leakage on social media and evaluates an agentic framework for cumulative cross-post inference."
+  abstract: >-
+    Public social media posts can reveal private information through weak signals spread across text, images, and metadata, especially when cues accumulate across posts. This work introduces SopriBench, a synthetic benchmark for user-level multimodal privacy leakage guided by leakage patterns from Rednote and Instagram accounts, and proposes the Privacy Exposure Score to measure exposure severity beyond binary correctness. It further presents Argus, a training-free agentic framework that forms hypotheses from accumulated evidence, verifies support, and aggregates cross-post cues into privacy profiles, improving privacy leakage inference over existing baselines.
+  webpage: "https://arxiv.org/abs/2606.06784"
+  badges:
+    - "arXiv 2026"
+  links:
+    - label: DOI
+      url: "https://arxiv.org/abs/2606.06784"
 - title: "Behind EvoMap: Characterizing a Self-Evolving Agent-to-Agent Collaboration Network"
   authors: "Qiming Ye, Peixain Zhang, Yupeng He, **Zifan Peng**, Gareth Tyson"
   venue: "arXiv preprint arXiv:2605.25815"
