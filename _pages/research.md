@@ -1,8 +1,6 @@
 ---
 title: Research
 permalink: /research/
-redirect_from:
-  - /publications/
 show_title: false
 publication_modal: true
 excerpt: "Research topics and publications by Zifan Peng."

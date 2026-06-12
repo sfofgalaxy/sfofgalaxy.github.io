@@ -5,3 +5,51 @@
 [build.environment]
   RUBY_VERSION = "3.4.9"
   MISE_RUBY_COMPILE = "false"
+
+[[redirects]]
+  from = "/publications"
+  to = "/research/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publications/"
+  to = "/research/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news"
+  to = "/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/"
+  to = "/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/teaching"
+  to = "/#experience"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/teaching/"
+  to = "/#experience"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/experience"
+  to = "/#experience"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/experience/"
+  to = "/#experience"
+  status = 301
+  force = true
