@@ -15,7 +15,7 @@
   --card-shadow: 0 14px 28px rgba(38, 54, 72, 0.08), 0 2px 8px rgba(38, 54, 72, 0.05);
   --radius: 8px;
   --content: 1040px;
-  --sidebar: 240px;
+  --sidebar: 260px;
 }
 
 * {
@@ -175,6 +175,7 @@ img {
 }
 
 .profile-avatar {
+  display: block;
   width: 136px;
   height: 136px;
   border-radius: 50%;
