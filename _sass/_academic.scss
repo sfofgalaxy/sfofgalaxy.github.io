@@ -540,16 +540,75 @@ img {
 }
 
 .timeline-list article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 46px;
+  gap: 16px;
+  align-items: center;
   padding-left: 16px;
   border-left: 3px solid var(--line-strong);
 }
 
-.timeline-list span {
+.timeline-copy {
+  min-width: 0;
+}
+
+.timeline-copy > span {
   display: block;
   color: var(--coral);
   font-size: 12px;
   font-weight: 900;
   font-variant-numeric: tabular-nums;
+}
+
+.timeline-logo {
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(185, 202, 221, 0.82);
+  border-radius: 50%;
+  background: var(--logo-bg, #f8fbff);
+  color: var(--logo-fg, var(--blue));
+  display: inline-grid;
+  place-items: center;
+  justify-self: end;
+  flex: 0 0 auto;
+  font-size: 10px;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: 0;
+  box-shadow: 0 8px 18px rgba(38, 54, 72, 0.08);
+}
+
+.timeline-logo--hkust {
+  --logo-bg: #fffaf0;
+  --logo-fg: #17447f;
+  border-color: rgba(196, 144, 46, 0.45);
+}
+
+.timeline-logo--zju {
+  --logo-bg: #eef6ff;
+  --logo-fg: #18579d;
+  border-color: rgba(24, 87, 157, 0.28);
+}
+
+.timeline-logo--shopee {
+  --logo-bg: #fff3eb;
+  --logo-fg: #df5a25;
+  border-color: rgba(223, 90, 37, 0.32);
+  font-size: 17px;
+}
+
+.timeline-logo--amap {
+  --logo-bg: #eef8ff;
+  --logo-fg: #1871c9;
+  border-color: rgba(24, 113, 201, 0.28);
+  font-size: 17px;
+}
+
+.timeline-logo--huawei {
+  --logo-bg: #fff0f0;
+  --logo-fg: #bc1f2d;
+  border-color: rgba(188, 31, 45, 0.3);
+  font-size: 17px;
 }
 
 .timeline-list p,

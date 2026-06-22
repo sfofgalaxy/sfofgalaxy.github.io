@@ -98,19 +98,28 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
       <h3>{% include icon.html name="education" %}<span>Education</span></h3>
       <div class="timeline-list">
         <article>
-          <span>2023 - Present</span>
-          <p class="timeline-title">Ph.D. in Financial Technology</p>
-          <p><a href="https://hkust-gz.edu.cn/">HKUST (GZ)</a>, Guangzhou, China</p>
+          <div class="timeline-copy">
+            <span>2023 - Present</span>
+            <p class="timeline-title">Ph.D. in Financial Technology</p>
+            <p><a href="https://hkust-gz.edu.cn/">HKUST (GZ)</a>, Guangzhou, China</p>
+          </div>
+          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
         </article>
         <article>
-          <span>2021 - 2022</span>
-          <p class="timeline-title">MSc in Information Technology</p>
-          <p><a href="https://hkust.edu.hk/">HKUST</a>, Hong Kong SAR</p>
+          <div class="timeline-copy">
+            <span>2021 - 2022</span>
+            <p class="timeline-title">MSc in Information Technology</p>
+            <p><a href="https://hkust.edu.hk/">HKUST</a>, Hong Kong SAR</p>
+          </div>
+          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
         </article>
         <article>
-          <span>2017 - 2021</span>
-          <p class="timeline-title">BEng in Software Engineering</p>
-          <p><a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China</p>
+          <div class="timeline-copy">
+            <span>2017 - 2021</span>
+            <p class="timeline-title">BEng in Software Engineering</p>
+            <p><a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China</p>
+          </div>
+          <span class="timeline-logo timeline-logo--zju" aria-label="Zhejiang University logo">ZJU</span>
         </article>
       </div>
     </section>
@@ -119,24 +128,36 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
       <h3>{% include icon.html name="work" %}<span>Work</span></h3>
       <div class="timeline-list">
         <article>
-          <span>2022 - 2023</span>
-          <p class="timeline-title">Software Engineer</p>
-          <p><a href="https://shopee.com/index.html">Shopee</a>, Singapore</p>
+          <div class="timeline-copy">
+            <span>2022 - 2023</span>
+            <p class="timeline-title">Software Engineer</p>
+            <p><a href="https://shopee.com/index.html">Shopee</a>, Singapore</p>
+          </div>
+          <span class="timeline-logo timeline-logo--shopee" aria-label="Shopee logo">S</span>
         </article>
         <article>
-          <span>2022</span>
-          <p class="timeline-title">Research Assistant</p>
-          <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a> & <a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
+          <div class="timeline-copy">
+            <span>2022</span>
+            <p class="timeline-title">Research Assistant</p>
+            <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a> & <a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
+          </div>
+          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
         </article>
         <article>
-          <span>2021</span>
-          <p class="timeline-title">Java Software Engineer Intern</p>
-          <p><a href="https://www.alibabagroup.com/en-US">AMap · Alibaba Group</a>, Beijing, China</p>
+          <div class="timeline-copy">
+            <span>2021</span>
+            <p class="timeline-title">Java Software Engineer Intern</p>
+            <p><a href="https://www.alibabagroup.com/en-US">AMap · Alibaba Group</a>, Beijing, China</p>
+          </div>
+          <span class="timeline-logo timeline-logo--amap" aria-label="AMap logo">A</span>
         </article>
         <article>
-          <span>2020</span>
-          <p class="timeline-title">Software Engineering Intern</p>
-          <p><a href="https://www.mindspore.cn/en">MindSpore, 2012 Labs, Huawei</a>, Hangzhou, China</p>
+          <div class="timeline-copy">
+            <span>2020</span>
+            <p class="timeline-title">Software Engineering Intern</p>
+            <p><a href="https://www.mindspore.cn/en">MindSpore, 2012 Labs, Huawei</a>, Hangzhou, China</p>
+          </div>
+          <span class="timeline-logo timeline-logo--huawei" aria-label="Huawei logo">H</span>
         </article>
       </div>
     </section>
