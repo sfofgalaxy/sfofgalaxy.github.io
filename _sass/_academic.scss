@@ -964,13 +964,12 @@ input[type="submit"]:hover {
 }
 
 .publication-card {
-  display: grid;
-  grid-template-columns: 78px minmax(0, 1fr);
-  gap: 18px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
-  padding: 18px;
+  padding: 18px 20px;
+  box-shadow: 0 8px 20px rgba(38, 54, 72, 0.04);
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
 }
 
 .publication-card--interactive {
@@ -980,6 +979,7 @@ input[type="submit"]:hover {
 .publication-card:hover {
   border-color: var(--line-strong);
   box-shadow: var(--shadow);
+  transform: translateY(-1px);
 }
 
 .publication-card:focus-visible {
@@ -988,24 +988,23 @@ input[type="submit"]:hover {
 }
 
 .publication-year {
-  color: var(--blue);
-  font-size: 20px;
+  color: var(--coral);
+  font-size: 15px;
   font-weight: 900;
   font-variant-numeric: tabular-nums;
+  line-height: 1.2;
 }
 
 .publication-body {
   min-width: 0;
 }
 
-.badge-row,
 .tag-row {
   display: flex;
   flex-wrap: wrap;
   gap: 7px;
 }
 
-.badge-row span,
 .tag-row span {
   border-radius: 999px;
   background: var(--coral-soft);
@@ -1016,7 +1015,7 @@ input[type="submit"]:hover {
 }
 
 .publication-card h3 {
-  margin: 9px 0 8px;
+  margin: 6px 0 8px;
   color: #26323d;
   font-size: 18px;
   line-height: 1.35;
@@ -1031,21 +1030,41 @@ input[type="submit"]:hover {
 
 .author-mark {
   color: var(--coral);
+  font-size: 0.72em;
   font-style: italic;
   font-weight: 900;
+  margin-left: 1px;
+  vertical-align: super;
 }
 
 .venue {
-  margin-top: 3px;
   color: var(--muted);
   font-style: italic;
+}
+
+.publication-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 9px;
+}
+
+.venue-badge {
+  border-radius: 6px;
+  background: var(--coral-soft);
+  color: var(--coral);
+  padding: 3px 8px;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1.25;
 }
 
 .paper-links {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-top: 12px;
+  margin-top: 0;
 }
 
 .publication-modal[hidden] {
@@ -1369,8 +1388,7 @@ body.modal-open {
   }
 
   .publication-card {
-    grid-template-columns: 1fr;
-    gap: 8px;
+    padding: 16px;
   }
 
   .tracker-widget {

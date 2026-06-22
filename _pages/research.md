@@ -59,35 +59,35 @@ excerpt: "Research topics and publications by Zifan Peng."
           data-publication-summary="{{ paper.summary | default: 'Summary coming soon.' | normalize_whitespace | escape }}"
           data-publication-abstract="{{ paper.abstract | default: 'Abstract coming soon.' | normalize_whitespace | escape }}"
           data-publication-webpage="{{ primary_url | escape }}">
-          <div class="publication-year">{{ paper.year }}</div>
           <div class="publication-body">
-            <div class="badge-row">
-              {% for badge in paper.badges %}
-                <span>{{ badge }}</span>
-              {% endfor %}
-            </div>
+            <div class="publication-year">{{ paper.year }}</div>
             <h3>{{ paper.title }}</h3>
             {% assign formatted_authors = paper.authors
               | replace: "**Zifan Peng**", "<strong>Zifan Peng</strong>"
               | replace: "*", "<span class='author-mark'>*</span>"
               | replace: "†", "<span class='author-mark'>†</span>" %}
             <p class="authors">{{ formatted_authors }}</p>
-            <p class="venue">{{ paper.venue }}</p>
-            {% if paper.links %}
-              <div class="paper-links">
-                {% for link in paper.links %}
-                  {% assign link_label = link.label %}
-                  {% if link.url contains "arxiv.org" %}
-                    {% assign link_label = "arXiv" %}
-                  {% elsif link.url contains "doi.org" %}
-                    {% assign link_label = "DOI" %}
-                  {% elsif link.label == "DOI" %}
-                    {% assign link_label = "Project" %}
-                  {% endif %}
-                  <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link_label }}</span></a>
-                {% endfor %}
-              </div>
-            {% endif %}
+            <div class="publication-meta-row">
+              {% for badge in paper.badges %}
+                <span class="venue-badge">{{ badge }}</span>
+              {% endfor %}
+              <span class="venue">{{ paper.venue }}</span>
+              {% if paper.links %}
+                <div class="paper-links">
+                  {% for link in paper.links %}
+                    {% assign link_label = link.label %}
+                    {% if link.url contains "arxiv.org" %}
+                      {% assign link_label = "arXiv" %}
+                    {% elsif link.url contains "doi.org" %}
+                      {% assign link_label = "DOI" %}
+                    {% elsif link.label == "DOI" %}
+                      {% assign link_label = "Project" %}
+                    {% endif %}
+                    <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link_label }}</span></a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
           </div>
         </article>
       {% endfor %}
