@@ -595,31 +595,18 @@ img {
 }
 
 .tracker-card {
-  display: inline-flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 14px;
-  max-width: 100%;
+  display: block;
+  width: 100%;
+  max-width: 640px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
-  padding: 12px 14px;
+  padding: 14px;
   box-shadow: var(--card-shadow);
-  color: var(--blue);
-}
-
-.tracker-label {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  flex: 0 0 auto;
-  font-size: 13px;
-  font-weight: 760;
 }
 
 .tracker-widget {
   width: 100%;
-  max-width: 520px;
 }
 
 .tracker-widget :where(a, div, img, iframe, canvas, svg) {
@@ -628,6 +615,10 @@ img {
   max-width: 100% !important;
   height: auto;
   border-radius: 6px;
+}
+
+.tracker-widget #mapmyvisitors-widget {
+  margin: 0 !important;
 }
 
 .form__fieldset {
@@ -1209,10 +1200,6 @@ body.modal-open {
   .publication-card {
     grid-template-columns: 1fr;
     gap: 8px;
-  }
-
-  .tracker-card {
-    flex-direction: column;
   }
 
   .tracker-widget {

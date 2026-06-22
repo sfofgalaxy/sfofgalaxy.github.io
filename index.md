@@ -179,7 +179,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
   class="home-section visit-tracker"
   aria-label="Visit tracker">
   <div class="tracker-card">
-    <span class="tracker-label">{% include icon.html name="location" %}</span>
     <div class="tracker-widget">
       <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RFfGwLHVObpSpfdcM9navzuyAOIQSoK7QEs1oZzkbNs&cl=ffffff&w=a"></script>
     </div>
