@@ -128,12 +128,12 @@
   links:
     - label: arXiv
       url: "https://arxiv.org/abs/2512.09483"
-- title: "GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards"
-  authors: "Yule Liu, Heyi Zhang, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Tianshuo Cong, Yilong Yang†, Xinlei He†, Zhuo Ma"
+- title: "Auditing Data Membership in Reinforcement Learning With Verifiable Rewards"
+  authors: "Yule Liu, Heyi Zhang, Jinyi Zheng, Zhen Sun, **Zifan Peng**, Jiaheng Wei, Tianshuo Cong, Yilong Yang†, Xinlei He†"
   venue: "arXiv preprint arXiv:2511.14045"
   year: 2025
   topic: trustworthy-ai
-  summary: "This paper studies membership exposure in RLVR-trained models through behavior-level auditing."
+  summary: "This paper studies data membership auditing in RLVR-trained models through prompt-conditioned behavioral traces."
   abstract: >-
     Reinforcement Learning with Verifiable Rewards has become a core training stage in recent large language models, and its reliance on non-public prompt sets creates a need for exposure auditing. This work shows that RLVR can leave detectable behavioral traces on training prompts, even when classic membership inference approaches are not directly applicable. It proposes Divergence-in-Behavior Auditing, a query-level framework that compares a fine-tuned model with its pre-RLVR checkpoint using reward-side and policy-side evidence. Experiments show strong auditing performance under white-box settings and useful transfer under practical grey-box settings.
   webpage: "https://arxiv.org/abs/2511.14045"
@@ -268,7 +268,7 @@
   links:
     - label: arXiv
       url: "https://arxiv.org/abs/2505.00049"
-- title: "Automatic Pruning via Structured Lasso with Class-wise Information"
+- title: "Enhanced Structured Lasso Pruning with Class-wise Information"
   authors: "Xiang Liu*, Mingchen Li*, Xia Li†, Leigang Qu, Guansu Wang, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang†, Jialin Li"
   venue: "arXiv preprint arXiv:2502.09125"
   year: 2025
