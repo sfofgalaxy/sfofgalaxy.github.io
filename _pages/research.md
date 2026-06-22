@@ -76,7 +76,15 @@ excerpt: "Research topics and publications by Zifan Peng."
             {% if paper.links %}
               <div class="paper-links">
                 {% for link in paper.links %}
-                  <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link.label }}</span></a>
+                  {% assign link_label = link.label %}
+                  {% if link.url contains "arxiv.org" %}
+                    {% assign link_label = "arXiv" %}
+                  {% elsif link.url contains "doi.org" %}
+                    {% assign link_label = "DOI" %}
+                  {% elsif link.label == "DOI" %}
+                    {% assign link_label = "Project" %}
+                  {% endif %}
+                  <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link_label }}</span></a>
                 {% endfor %}
               </div>
             {% endif %}

@@ -10,7 +10,7 @@
   badges:
     - "arXiv 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2606.06784"
 - title: "Behind EvoMap: Characterizing a Self-Evolving Agent-to-Agent Collaboration Network"
   authors: "Qiming Ye, Peixain Zhang, Yupeng He, **Zifan Peng**, Gareth Tyson"
@@ -24,7 +24,7 @@
   badges:
     - "arXiv 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2605.25815"
 - title: "On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models"
   authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He"
@@ -38,7 +38,7 @@
   badges:
     - "arXiv 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2605.09606"
 - title: "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents"
   authors: "**Zifan Peng**, Mingchen Li"
@@ -52,7 +52,7 @@
   badges:
     - "arXiv 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2603.28551"
 - title: "GPLab: A Generative Agent-Based Framework for Policy Simulation and Evaluation"
   authors: "Shuhan Zhang, **Zifan Peng**, Yinwang Ren"
@@ -82,7 +82,7 @@
   badges:
     - "ICLR 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://www.arxiv.org/abs/2505.17568"
 - title: "TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding"
   authors: "**Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He"
@@ -96,7 +96,7 @@
   badges:
     - "arXiv 2026"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2512.06933"
 - title: "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents"
   authors: "**Zifan Peng**, etc."
@@ -112,7 +112,7 @@
   links:
     - label: ICML
       url: "https://icml.cc/virtual/2026/poster/60772"
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2512.12730"
 - title: "Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines"
   authors: "Peixian Zhang*, Qiming Ye*, **Zifan Peng**, Kiran Garimella, Gareth Tyson"
@@ -126,7 +126,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2512.09483"
 - title: "GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards"
   authors: "Yule Liu, Heyi Zhang, Jinyi Zheng, Zhen Sun, **Zifan Peng**, Tianshuo Cong, Yilong Yang, Xinlei He, Zhuo Ma"
@@ -140,7 +140,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2511.14045"
 - title: "CHASM: Unveiling Covert Advertisements on Chinese Social Media"
   authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, Wenhan Dong, **Zifan Peng**, Xinlei He"
@@ -154,7 +154,7 @@
   badges:
     - "NeurIPS 2025"
   links:
-    - label: DOI
+    - label: Project
       url: "https://neurips.cc/virtual/2025/poster/121625"
 - title: "SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines"
   authors: "**Zifan Peng**, etc."
@@ -168,7 +168,7 @@
   badges:
     - "NeurIPS 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2502.14739"
 - title: "Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search"
   authors: "Zeren Luo*, **Zifan Peng***, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He"
@@ -182,7 +182,7 @@
   badges:
     - "USENIX Security 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2502.04951"
 - title: "GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts"
   authors: "Jingyi Zheng*, **Zifan Peng***, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He"
@@ -196,7 +196,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2507.15761"
 - title: "Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach"
   authors: "**Zifan Peng**, Yingjie Xue, Jingyu Liu"
@@ -210,7 +210,7 @@
   badges:
     - "ICWS 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2410.15724"
 - title: "ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities"
   authors: "Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo"
@@ -224,7 +224,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2508.14377"
 - title: "\"I Can See Forever!\": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments"
   authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He"
@@ -238,7 +238,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2505.04488"
 - title: "Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models"
   authors: "Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He"
@@ -252,7 +252,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2504.13626"
 - title: "Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications"
   authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He"
@@ -266,7 +266,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2505.00049"
 - title: "Automatic Pruning via Structured Lasso with Class-wise Information"
   authors: "Xiang Liu*, Mingchen Li*, Xia Li, Leigang Qu, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li"
@@ -280,7 +280,7 @@
   badges:
     - "arXiv 2025"
   links:
-    - label: DOI
+    - label: arXiv
       url: "https://arxiv.org/abs/2502.09125"
 - title: "Prompt-based Contrastive Learning to Combat the COVID-19 Infodemic"
   authors: "**Zifan Peng**, Mingchen Li, Yue Wang, George T.S. Ho"
@@ -308,7 +308,7 @@
   badges:
     - "TDSC 2025"
   links:
-    - label: DOI
+    - label: Project
       url: "https://www.computer.org/csdl/journal/tq/5555/01/11269694/2bXLhIsPzkQ"
 - title: "Combating the COVID-19 Infodemic Using Prompt-Based Curriculum Learning"
   authors: "**Zifan Peng**, Mingchen Li, Yue Wang, George T.S. Ho"
