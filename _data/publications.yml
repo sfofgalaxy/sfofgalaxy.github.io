@@ -297,7 +297,7 @@
     - label: DOI
       url: "https://doi.org/10.1007/s10994-024-06731-8"
 - title: "FairRelay: Fair and Cost-Efficient Peer-to-Peer Content Delivery through Payment Channel Networks"
-  authors: "Jingyu Liu, Yingjie Xue, **Zifan Peng**, Chao Lin, Xinyi Huang"
+  authors: "Yingjie Xue†, Jingyu Liu, **Zifan Peng**, Chao Lin, Jianan Hong, Xinyi Huang"
   venue: "IEEE Transactions on Dependable and Secure Computing"
   year: 2025
   topic: decentralized-systems
