@@ -103,7 +103,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">Ph.D. in Financial Technology</p>
             <p><a href="https://hkust-gz.edu.cn/">HKUST (GZ)</a>, Guangzhou, China</p>
           </div>
-          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
+          <a class="timeline-logo timeline-logo--hkust" href="https://hkust-gz.edu.cn/" aria-label="HKUST (GZ)">
+            <img src="{{ '/assets/logos/orgs/hkust.svg' | relative_url }}" alt="HKUST">
+          </a>
         </article>
         <article>
           <div class="timeline-copy">
@@ -111,7 +113,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">MSc in Information Technology</p>
             <p><a href="https://hkust.edu.hk/">HKUST</a>, Hong Kong SAR</p>
           </div>
-          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
+          <a class="timeline-logo timeline-logo--hkust" href="https://hkust.edu.hk/" aria-label="HKUST">
+            <img src="{{ '/assets/logos/orgs/hkust.svg' | relative_url }}" alt="HKUST">
+          </a>
         </article>
         <article>
           <div class="timeline-copy">
@@ -119,7 +123,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">BEng in Software Engineering</p>
             <p><a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China</p>
           </div>
-          <span class="timeline-logo timeline-logo--zju" aria-label="Zhejiang University logo">ZJU</span>
+          <a class="timeline-logo timeline-logo--zju" href="https://www.zju.edu.cn/english/" aria-label="Zhejiang University">
+            <img src="{{ '/assets/logos/orgs/zju.svg' | relative_url }}" alt="Zhejiang University">
+          </a>
         </article>
       </div>
     </section>
@@ -133,7 +139,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">Software Engineer</p>
             <p><a href="https://shopee.com/index.html">Shopee</a>, Singapore</p>
           </div>
-          <span class="timeline-logo timeline-logo--shopee" aria-label="Shopee logo">S</span>
+          <a class="timeline-logo timeline-logo--shopee" href="https://shopee.com/index.html" aria-label="Shopee">
+            <img src="{{ '/assets/logos/orgs/shopee.svg' | relative_url }}" alt="Shopee">
+          </a>
         </article>
         <article>
           <div class="timeline-copy">
@@ -141,7 +149,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">Research Assistant</p>
             <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a> & <a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
           </div>
-          <span class="timeline-logo timeline-logo--hkust" aria-label="HKUST logo">HKUST</span>
+          <a class="timeline-logo timeline-logo--hkust" href="https://sosc.hkust.edu.hk/people/wenjuan-zheng" aria-label="HKUST">
+            <img src="{{ '/assets/logos/orgs/hkust.svg' | relative_url }}" alt="HKUST">
+          </a>
         </article>
         <article>
           <div class="timeline-copy">
@@ -149,7 +159,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">Java Software Engineer Intern</p>
             <p><a href="https://www.alibabagroup.com/en-US">AMap · Alibaba Group</a>, Beijing, China</p>
           </div>
-          <span class="timeline-logo timeline-logo--amap" aria-label="AMap logo">A</span>
+          <a class="timeline-logo timeline-logo--alibaba" href="https://www.alibabagroup.com/en-US" aria-label="Alibaba Group">
+            <img src="{{ '/assets/logos/orgs/alibaba.svg' | relative_url }}" alt="Alibaba Group">
+          </a>
         </article>
         <article>
           <div class="timeline-copy">
@@ -157,7 +169,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <p class="timeline-title">Software Engineering Intern</p>
             <p><a href="https://www.mindspore.cn/en">MindSpore, 2012 Labs, Huawei</a>, Hangzhou, China</p>
           </div>
-          <span class="timeline-logo timeline-logo--huawei" aria-label="Huawei logo">H</span>
+          <a class="timeline-logo timeline-logo--huawei" href="https://www.mindspore.cn/en" aria-label="Huawei">
+            <img src="{{ '/assets/logos/orgs/huawei.svg' | relative_url }}" alt="Huawei">
+          </a>
         </article>
       </div>
     </section>

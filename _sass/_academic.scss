@@ -541,7 +541,7 @@ img {
 
 .timeline-list article {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 46px;
+  grid-template-columns: minmax(0, 1fr) 50px;
   gap: 16px;
   align-items: center;
   padding-left: 16px;
@@ -561,54 +561,70 @@ img {
 }
 
 .timeline-logo {
-  width: 46px;
-  height: 46px;
-  border: 1px solid rgba(185, 202, 221, 0.82);
+  width: 50px;
+  height: 50px;
+  border: 1px solid var(--logo-border, rgba(185, 202, 221, 0.82));
   border-radius: 50%;
-  background: var(--logo-bg, #f8fbff);
-  color: var(--logo-fg, var(--blue));
+  background: #fff;
   display: inline-grid;
   place-items: center;
   justify-self: end;
   flex: 0 0 auto;
-  font-size: 10px;
-  font-weight: 900;
-  line-height: 1;
-  letter-spacing: 0;
+  padding: var(--logo-padding, 8px);
+  overflow: hidden;
   box-shadow: 0 8px 18px rgba(38, 54, 72, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.timeline-logo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 180ms ease;
+}
+
+.timeline-logo:hover,
+.timeline-logo:focus-visible {
+  border-color: var(--logo-accent, var(--blue));
+  box-shadow: 0 14px 26px rgba(38, 54, 72, 0.16);
+  text-decoration: none;
+  transform: translateY(-2px) scale(1.06);
+}
+
+.timeline-logo:hover img,
+.timeline-logo:focus-visible img {
+  transform: scale(1.08);
 }
 
 .timeline-logo--hkust {
-  --logo-bg: #fffaf0;
-  --logo-fg: #17447f;
-  border-color: rgba(196, 144, 46, 0.45);
+  --logo-accent: #b2822b;
+  --logo-border: rgba(196, 144, 46, 0.42);
+  --logo-padding: 8px;
 }
 
 .timeline-logo--zju {
-  --logo-bg: #eef6ff;
-  --logo-fg: #18579d;
-  border-color: rgba(24, 87, 157, 0.28);
+  --logo-accent: #1c5c9e;
+  --logo-border: rgba(24, 87, 157, 0.3);
+  --logo-padding: 5px;
 }
 
 .timeline-logo--shopee {
-  --logo-bg: #fff3eb;
-  --logo-fg: #df5a25;
-  border-color: rgba(223, 90, 37, 0.32);
-  font-size: 17px;
+  --logo-accent: #ee4d2d;
+  --logo-border: rgba(238, 77, 45, 0.32);
+  --logo-padding: 10px;
 }
 
-.timeline-logo--amap {
-  --logo-bg: #eef8ff;
-  --logo-fg: #1871c9;
-  border-color: rgba(24, 113, 201, 0.28);
-  font-size: 17px;
+.timeline-logo--alibaba {
+  --logo-accent: #ff6a00;
+  --logo-border: rgba(255, 106, 0, 0.34);
+  --logo-padding: 8px;
 }
 
 .timeline-logo--huawei {
-  --logo-bg: #fff0f0;
-  --logo-fg: #bc1f2d;
-  border-color: rgba(188, 31, 45, 0.3);
-  font-size: 17px;
+  --logo-accent: #d20a11;
+  --logo-border: rgba(210, 10, 17, 0.32);
+  --logo-padding: 7px;
 }
 
 .timeline-list p,
