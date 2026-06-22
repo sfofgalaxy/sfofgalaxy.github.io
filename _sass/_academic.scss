@@ -606,6 +606,15 @@ img {
   --logo-padding: 10px;
 }
 
+.timeline-logo--hkust img {
+  transform: translateY(-3px);
+}
+
+.timeline-logo--hkust:hover img,
+.timeline-logo--hkust:focus-visible img {
+  transform: translateY(-3px) scale(1.08);
+}
+
 .timeline-logo--zju {
   --logo-accent: #1c5c9e;
   --logo-border: rgba(24, 87, 157, 0.3);
