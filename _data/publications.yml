@@ -143,7 +143,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2511.14045"
 - title: "CHASM: Unveiling Covert Advertisements on Chinese Social Media"
-  authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Wenhan Dong†, Xinlei He"
+  authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Wenhan Dong†, Xinlei He†"
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
   topic: trustworthy-ai
