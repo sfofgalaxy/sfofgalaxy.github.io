@@ -672,7 +672,7 @@ img {
 .tracker-card {
   display: block;
   width: 100%;
-  max-width: 640px;
+  max-width: 426px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
@@ -943,8 +943,15 @@ input[type="submit"]:hover {
 
 .equal-note {
   margin: 22px 0 0;
-  color: var(--muted);
+  color: #111820;
   font-size: 14px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.equal-note a {
+  color: inherit;
+  text-decoration: underline;
 }
 
 .research-topic-section {

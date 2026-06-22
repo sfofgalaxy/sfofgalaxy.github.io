@@ -29,7 +29,7 @@ excerpt: "Research topics and publications by Zifan Peng."
   {% endfor %}
 </section>
 
-<p class="equal-note"><strong><em>*</em></strong> denotes equal contribution (listed alphabetically). <strong><em>†</em></strong> denotes corresponding author. A full list is also available on <a href="https://scholar.google.com/citations?user=2M8-SOwAAAAJ">Google Scholar</a>.</p>
+<p class="equal-note"><strong><em>* denotes equal contribution (listed alphabetically). † denotes corresponding author. A full list is also available on <a href="https://scholar.google.com/citations?user=2M8-SOwAAAAJ">Google Scholar</a>.</em></strong></p>
 
 {% for topic in site.data.research_topics %}
   {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
