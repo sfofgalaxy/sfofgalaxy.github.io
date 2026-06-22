@@ -33,7 +33,6 @@ excerpt: "Research topics and publications by Zifan Peng."
 
 <section class="research-topic-section selected-papers-section" aria-labelledby="selected-papers-title">
   <div class="topic-section-heading">
-    <p class="section-kicker"><span>First-author & co-first-author works</span></p>
     <h2 id="selected-papers-title">Selected Papers</h2>
   </div>
 
@@ -44,6 +43,9 @@ excerpt: "Research topics and publications by Zifan Peng."
       {% assign is_selected_paper = false %}
       {% if first_author contains "**Zifan Peng**" or paper.authors contains "**Zifan Peng***" %}
         {% assign is_selected_paper = true %}
+      {% endif %}
+      {% if paper.selected == false %}
+        {% assign is_selected_paper = false %}
       {% endif %}
       {% if is_selected_paper %}
         {% capture paper_year %}{{ paper.year }}{% endcapture %}

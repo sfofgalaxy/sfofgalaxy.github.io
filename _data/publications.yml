@@ -42,6 +42,7 @@
       url: "https://arxiv.org/abs/2605.09606"
 - title: "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents"
   authors: "**Zifan Peng**, Mingchen Li"
+  selected: false
   venue: "arXiv preprint arXiv:2603.28551"
   year: 2026
   topic: human-centered-ai
@@ -100,6 +101,7 @@
       url: "https://arxiv.org/abs/2512.06933"
 - title: "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents"
   authors: "**Zifan Peng**, etc."
+  selected: false
   venue: "International Conference on Machine Learning"
   year: 2026
   topic: human-centered-ai
@@ -158,6 +160,7 @@
       url: "https://neurips.cc/virtual/2025/poster/121625"
 - title: "SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines"
   authors: "**Zifan Peng**, etc."
+  selected: false
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
   topic: human-centered-ai
