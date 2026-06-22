@@ -41,55 +41,67 @@ excerpt: "Research topics and publications by Zifan Peng."
     </div>
 
     <div class="publication-grid">
+      {% assign current_year = "" %}
       {% for paper in topic_papers %}
+        {% capture paper_year %}{{ paper.year }}{% endcapture %}
+        {% assign show_year = false %}
+        {% if paper_year != current_year %}
+          {% assign current_year = paper_year %}
+          {% assign show_year = true %}
+        {% endif %}
         {% assign primary_url = paper.webpage %}
         {% unless primary_url %}
           {% assign first_link = paper.links | first %}
           {% assign primary_url = first_link.url %}
         {% endunless %}
-        <article
-          class="publication-card publication-card--interactive"
-          tabindex="0"
-          role="button"
-          aria-label="Open details for {{ paper.title | escape }}"
-          data-publication-card
-          data-publication-title="{{ paper.title | escape }}"
-          data-publication-venue="{{ paper.venue | escape }}"
-          data-publication-badges="{{ paper.badges | join: ' | ' | escape }}"
-          data-publication-summary="{{ paper.summary | default: 'Summary coming soon.' | normalize_whitespace | escape }}"
-          data-publication-abstract="{{ paper.abstract | default: 'Abstract coming soon.' | normalize_whitespace | escape }}"
-          data-publication-webpage="{{ primary_url | escape }}">
-          <div class="publication-body">
-            <div class="publication-year">{{ paper.year }}</div>
-            <h3>{{ paper.title }}</h3>
-            {% assign formatted_authors = paper.authors
-              | replace: "**Zifan Peng**", "<strong>Zifan Peng</strong>"
-              | replace: "*", "<span class='author-mark'>*</span>"
-              | replace: "†", "<span class='author-mark'>†</span>" %}
-            <p class="authors">{{ formatted_authors }}</p>
-            <div class="publication-meta-row">
-              {% for badge in paper.badges %}
-                <span class="venue-badge">{{ badge }}</span>
-              {% endfor %}
-              <span class="venue">{{ paper.venue }}</span>
-              {% if paper.links %}
-                <div class="paper-links">
-                  {% for link in paper.links %}
-                    {% assign link_label = link.label %}
-                    {% if link.url contains "arxiv.org" %}
-                      {% assign link_label = "arXiv" %}
-                    {% elsif link.url contains "doi.org" %}
-                      {% assign link_label = "DOI" %}
-                    {% elsif link.label == "DOI" %}
-                      {% assign link_label = "Project" %}
-                    {% endif %}
-                    <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link_label }}</span></a>
-                  {% endfor %}
-                </div>
-              {% endif %}
-            </div>
+        <div class="publication-row{% if show_year %} publication-row--new-year{% endif %}">
+          <div class="publication-year-label">
+            {% if show_year %}{{ paper.year }}{% endif %}
           </div>
-        </article>
+          <article
+            class="publication-card publication-card--interactive"
+            tabindex="0"
+            role="button"
+            aria-label="Open details for {{ paper.title | escape }}"
+            data-publication-card
+            data-publication-title="{{ paper.title | escape }}"
+            data-publication-venue="{{ paper.venue | escape }}"
+            data-publication-badges="{{ paper.badges | join: ' | ' | escape }}"
+            data-publication-summary="{{ paper.summary | default: 'Summary coming soon.' | normalize_whitespace | escape }}"
+            data-publication-abstract="{{ paper.abstract | default: 'Abstract coming soon.' | normalize_whitespace | escape }}"
+            data-publication-webpage="{{ primary_url | escape }}">
+            <div class="publication-body">
+              <h3>{{ paper.title }}</h3>
+              {% assign formatted_authors = paper.authors
+                | replace: "**Zifan Peng**", "<strong>Zifan Peng</strong>"
+                | replace: "*", "<span class='author-mark'>*</span>"
+                | replace: "†", "<span class='author-mark'>†</span>" %}
+              <p class="authors">{{ formatted_authors }}</p>
+              <div class="publication-meta-row">
+                {% for badge in paper.badges %}
+                  {% assign badge_label = badge | remove: paper_year | strip %}
+                  <span class="venue-badge">{{ badge_label }}</span>
+                {% endfor %}
+                <span class="venue">{{ paper.venue }}</span>
+                {% if paper.links %}
+                  <div class="paper-links">
+                    {% for link in paper.links %}
+                      {% assign link_label = link.label %}
+                      {% if link.url contains "arxiv.org" %}
+                        {% assign link_label = "arXiv" %}
+                      {% elsif link.url contains "doi.org" %}
+                        {% assign link_label = "DOI" %}
+                      {% elsif link.label == "DOI" %}
+                        {% assign link_label = "Project" %}
+                      {% endif %}
+                      <a href="{{ link.url }}">{% include icon.html name="link" %}<span>{{ link_label }}</span></a>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+        </div>
       {% endfor %}
     </div>
   </section>

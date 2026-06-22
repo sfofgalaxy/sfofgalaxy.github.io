@@ -963,10 +963,22 @@ input[type="submit"]:hover {
 
 .publication-grid {
   display: grid;
+  gap: 12px;
+}
+
+.publication-row {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
   gap: 14px;
+  align-items: start;
+}
+
+.publication-row--new-year {
+  margin-top: 4px;
 }
 
 .publication-card {
+  min-width: 0;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
@@ -990,9 +1002,11 @@ input[type="submit"]:hover {
   outline-offset: 3px;
 }
 
-.publication-year {
+.publication-year-label {
+  min-height: 1px;
+  padding-top: 18px;
   color: var(--coral);
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 900;
   font-variant-numeric: tabular-nums;
   line-height: 1.2;
@@ -1018,7 +1032,7 @@ input[type="submit"]:hover {
 }
 
 .publication-card h3 {
-  margin: 6px 0 8px;
+  margin: 0 0 8px;
   color: #26323d;
   font-size: 18px;
   line-height: 1.35;
@@ -1388,6 +1402,19 @@ body.modal-open {
     grid-template-columns: 1fr;
     gap: 6px;
     align-items: start;
+  }
+
+  .publication-row {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+
+  .publication-row:not(.publication-row--new-year) .publication-year-label {
+    display: none;
+  }
+
+  .publication-year-label {
+    padding-top: 0;
   }
 
   .publication-card {
