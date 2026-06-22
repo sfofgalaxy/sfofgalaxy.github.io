@@ -244,35 +244,9 @@ img {
   font-size: 14px;
 }
 
-.focus-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-}
-
 .email-text {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 0.95em;
-}
-
-.focus-links a {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: #fbfdff;
-  color: var(--blue);
-  padding: 4px 8px;
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 1.25;
-}
-
-.focus-links a:hover {
-  border-color: var(--coral);
-  color: var(--coral);
-  text-decoration: none;
 }
 
 .profile-links {
