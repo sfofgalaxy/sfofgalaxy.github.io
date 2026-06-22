@@ -23,7 +23,8 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>.
     Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI.
   </p>
-  <div class="interest-pills" aria-label="Research interests">
+  <div class="interest-pills" aria-label="Research focus">
+    <span class="interest-pills-label">Focus:</span>
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
     <a href="{{ "/research/#human-centered-ai" | relative_url }}">{% include icon.html name="users" %}<span>Human-Centered AI</span></a>
     <a href="{{ "/research/#decentralized-systems" | relative_url }}">{% include icon.html name="network" %}<span>DeFi & Blockchain</span></a>
