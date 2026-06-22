@@ -1,5 +1,5 @@
 - title: "What Your Posts Reveal: A Benchmark and Agentic Framework for User-Level Privacy Leakage on Social Media"
-  authors: "**Zifan Peng***†, Yini Huang*, Aiwen Lu, Qiming Ye, Peixian Zhang, Jingyi Zheng, Yule Liu, Xuechao Wang, Xinlei He, Jiaheng Wei"
+  authors: "**Zifan Peng***, Yini Huang*, Aiwen Lu*, Qiming Ye, Peixian Zhang, Jingyi Zheng, Yule Liu, Xuechao Wang, Xinlei He†, Jiaheng Wei†"
   venue: "arXiv preprint arXiv:2606.06784"
   year: 2026
   topic: trustworthy-ai
@@ -13,7 +13,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2606.06784"
 - title: "Behind EvoMap: Characterizing a Self-Evolving Agent-to-Agent Collaboration Network"
-  authors: "Qiming Ye*, Peixain Zhang*, Yupeng He, **Zifan Peng**†, Gareth Tyson"
+  authors: "Qiming Ye*, Peixian Zhang*, Yupeng He, **Zifan Peng**, Gareth Tyson"
   venue: "arXiv preprint arXiv:2605.25815"
   year: 2026
   topic: trustworthy-ai
@@ -27,7 +27,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2605.25815"
 - title: "On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models"
-  authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**†, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He"
+  authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He†"
   venue: "arXiv preprint arXiv:2605.09606"
   year: 2026
   topic: trustworthy-ai
@@ -41,7 +41,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2605.09606"
 - title: "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents"
-  authors: "**Zifan Peng**†, Mingchen Li"
+  authors: "**Zifan Peng**, Mingchen Li"
   venue: "arXiv preprint arXiv:2603.28551"
   year: 2026
   topic: human-centered-ai
@@ -55,7 +55,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2603.28551"
 - title: "GPLab: A Generative Agent-Based Framework for Policy Simulation and Evaluation"
-  authors: "Shuhan Zhang, **Zifan Peng**†, Yinwang Ren"
+  authors: "Shuhan Zhang†, **Zifan Peng**, Yinwang Ren"
   venue: "Journal of Artificial Societies & Social Simulation, 29(1), 1"
   year: 2026
   topic: human-centered-ai
@@ -71,7 +71,7 @@
     - label: PDF
       url: "https://www.jasss.org/29/1/6/6.pdf"
 - title: "JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models"
-  authors: "**Zifan Peng**†, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong, Xinlei He, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang"
+  authors: "**Zifan Peng**, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong†, Xinlei He†, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang"
   venue: "International Conference on Learning Representations"
   year: 2026
   topic: trustworthy-ai
@@ -85,7 +85,7 @@
     - label: arXiv
       url: "https://www.arxiv.org/abs/2505.17568"
 - title: "TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding"
-  authors: "**Zifan Peng**†, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He"
+  authors: "**Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He†"
   venue: "arXiv preprint arXiv:2512.06933"
   year: 2026
   topic: decentralized-systems
@@ -99,7 +99,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2512.06933"
 - title: "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents"
-  authors: "**Zifan Peng**†, etc."
+  authors: "**Zifan Peng**, etc."
   venue: "International Conference on Machine Learning"
   year: 2026
   topic: human-centered-ai
@@ -115,7 +115,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2512.12730"
 - title: "Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines"
-  authors: "Peixian Zhang*, Qiming Ye*, **Zifan Peng**†, Kiran Garimella, Gareth Tyson"
+  authors: "Peixian Zhang*, Qiming Ye*, **Zifan Peng**, Kiran Garimella, Gareth Tyson"
   venue: "arXiv preprint arXiv:2512.09483"
   year: 2025
   topic: trustworthy-ai
@@ -129,7 +129,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2512.09483"
 - title: "GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards"
-  authors: "Yule Liu, Heyi Zhang, Jinyi Zheng, Zhen Sun, **Zifan Peng**†, Tianshuo Cong, Yilong Yang, Xinlei He, Zhuo Ma"
+  authors: "Yule Liu, Heyi Zhang, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Tianshuo Cong, Yilong Yang†, Xinlei He†, Zhuo Ma"
   venue: "arXiv preprint arXiv:2511.14045"
   year: 2025
   topic: trustworthy-ai
@@ -143,7 +143,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2511.14045"
 - title: "CHASM: Unveiling Covert Advertisements on Chinese Social Media"
-  authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, Wenhan Dong, **Zifan Peng**†, Xinlei He"
+  authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Wenhan Dong†, Xinlei He"
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
   topic: trustworthy-ai
@@ -157,7 +157,7 @@
     - label: Project
       url: "https://neurips.cc/virtual/2025/poster/121625"
 - title: "SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines"
-  authors: "**Zifan Peng**†, etc."
+  authors: "**Zifan Peng**, etc."
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
   topic: human-centered-ai
@@ -171,7 +171,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2502.14739"
 - title: "Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search"
-  authors: "Zeren Luo*, **Zifan Peng***†, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He"
+  authors: "Zeren Luo*, **Zifan Peng***, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He†"
   venue: "USENIX Security Symposium"
   year: 2025
   topic: trustworthy-ai
@@ -185,7 +185,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2502.04951"
 - title: "GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts"
-  authors: "Jingyi Zheng*, **Zifan Peng***†, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He"
+  authors: "Jingyi Zheng*, **Zifan Peng***, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He†"
   venue: "arXiv preprint arXiv:2507.15761"
   year: 2025
   topic: decentralized-systems
@@ -199,7 +199,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2507.15761"
 - title: "Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach"
-  authors: "**Zifan Peng**†, Yingjie Xue, Jingyu Liu"
+  authors: "**Zifan Peng**, Yingjie Xue†, Jingyu Liu"
   venue: "IEEE International Conference on Web Services"
   year: 2025
   topic: decentralized-systems
@@ -213,7 +213,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2410.15724"
 - title: "ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities"
-  authors: "Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**†, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo"
+  authors: "Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He†, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo†"
   venue: "arXiv preprint arXiv:2508.14377"
   year: 2025
   topic: human-centered-ai
@@ -227,7 +227,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2508.14377"
 - title: "\"I Can See Forever!\": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments"
-  authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**†, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He"
+  authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.04488"
   year: 2025
   topic: human-centered-ai
@@ -241,7 +241,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2505.04488"
 - title: "Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models"
-  authors: "Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**†, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He"
+  authors: "Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He†"
   venue: "arXiv preprint arXiv:2504.13626"
   year: 2025
   topic: trustworthy-ai
@@ -255,7 +255,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2504.13626"
 - title: "Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications"
-  authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**†, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He"
+  authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.00049"
   year: 2025
   topic: human-centered-ai
@@ -269,7 +269,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2505.00049"
 - title: "Automatic Pruning via Structured Lasso with Class-wise Information"
-  authors: "Xiang Liu*, Mingchen Li*, Xia Li, Leigang Qu, **Zifan Peng**†, Yijun Song, Zemin Liu, Linshan Jiang, Jialin Li"
+  authors: "Xiang Liu*, Mingchen Li*, Xia Li†, Leigang Qu, Guansu Wang, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang†, Jialin Li"
   venue: "arXiv preprint arXiv:2502.09125"
   year: 2025
   topic: human-centered-ai
@@ -283,7 +283,7 @@
     - label: arXiv
       url: "https://arxiv.org/abs/2502.09125"
 - title: "Prompt-based Contrastive Learning to Combat the COVID-19 Infodemic"
-  authors: "**Zifan Peng**†, Mingchen Li, Yue Wang, George T.S. Ho"
+  authors: "**Zifan Peng**, Mingchen Li, Yue Wang†, Daniel Y. Mo"
   venue: "Machine Learning, 114(1), 6"
   year: 2025
   topic: human-centered-ai
@@ -297,7 +297,7 @@
     - label: DOI
       url: "https://doi.org/10.1007/s10994-024-06731-8"
 - title: "FairRelay: Fair and Cost-Efficient Peer-to-Peer Content Delivery through Payment Channel Networks"
-  authors: "Jingyu Liu, Yingjie Xue, **Zifan Peng**†, Chao Lin, Xinyi Huang"
+  authors: "Jingyu Liu, Yingjie Xue, **Zifan Peng**, Chao Lin, Xinyi Huang"
   venue: "IEEE Transactions on Dependable and Secure Computing"
   year: 2025
   topic: decentralized-systems
@@ -311,7 +311,7 @@
     - label: Project
       url: "https://www.computer.org/csdl/journal/tq/5555/01/11269694/2bXLhIsPzkQ"
 - title: "Combating the COVID-19 Infodemic Using Prompt-Based Curriculum Learning"
-  authors: "**Zifan Peng**†, Mingchen Li, Yue Wang, George T.S. Ho"
+  authors: "**Zifan Peng**, Mingchen Li, Yue Wang†, George T.S. Ho"
   venue: "Expert Systems with Applications, 229, 120501"
   year: 2024
   topic: human-centered-ai
