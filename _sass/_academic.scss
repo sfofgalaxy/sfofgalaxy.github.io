@@ -571,15 +571,17 @@ img {
   justify-self: end;
   flex: 0 0 auto;
   padding: var(--logo-padding, 8px);
-  overflow: hidden;
+  overflow: visible;
   box-shadow: 0 8px 18px rgba(38, 54, 72, 0.08);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 .timeline-logo img {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
   object-fit: contain;
   transition: transform 180ms ease;
 }
