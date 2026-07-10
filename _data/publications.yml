@@ -40,6 +40,16 @@
   links:
     - label: arXiv
       url: "https://arxiv.org/abs/2605.09606"
+- title: "TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation"
+  authors: "Jingyi Zheng, Yule Liu, **Zifan Peng**, Tianyi Hu, Yuemeng Zhao, Xinhu Zheng, Xinlei He"
+  venue: "ACM International Conference on Multimedia"
+  year: 2026
+  topic: human-centered-ai
+  summary: "TransMeme introduces a multi-agent framework for adapting memes across cultural contexts while preserving communicative intent."
+  abstract: >-
+    Memes often depend on culturally specific references, humor, and visual-textual conventions, making direct translation insufficient for cross-cultural communication. TransMeme frames this challenge as meme transcreation and introduces a multi-agent framework for adapting meme content across cultures while preserving the original communicative intent, humor, and multimodal structure.
+  badges:
+    - "ACM MM 2026"
 - title: "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents"
   authors: "**Zifan Peng**, Mingchen Li"
   selected: false
