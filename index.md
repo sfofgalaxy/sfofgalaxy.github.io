@@ -38,6 +38,10 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
   <div class="news-panel">
     <article class="news-row">
       <div class="news-date"><time datetime="2026-07">2026.07</time></div>
+      <p class="news-text">Our paper <em><a href="https://arxiv.org/abs/2512.09483">Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines</a></em> was accepted to ICWSM 2027.</p>
+    </article>
+    <article class="news-row">
+      <div class="news-date"><time datetime="2026-07">2026.07</time></div>
       <p class="news-text">Our paper <em>TransMeme</em> was accepted to ACM MM 2026, introducing a multi-agent framework for cross-cultural meme transcreation.</p>
     </article>
     <article class="news-row">
