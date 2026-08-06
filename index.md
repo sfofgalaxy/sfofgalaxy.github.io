@@ -21,7 +21,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
     <a href="{{ "/research/#human-centered-ai" | relative_url }}">Human-Centered AI</a>, and
     <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>.
-    Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI.
+    <!-- Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI. -->
   </p>
   <div class="interest-pills" aria-label="Research focus">
     <span class="interest-pills-label">Focus:</span>
