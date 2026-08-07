@@ -3,15 +3,16 @@ title: Research
 permalink: /research/
 show_title: false
 publication_modal: true
-excerpt: "Research topics and publications by Zifan Peng."
+excerpt: "Research on AI4Sec, AI4Finance, and Trustworthy AI by Zifan Peng."
 ---
 
 <section class="page-heading research-heading">
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research</span></p>
   <h1>Problems I keep returning to</h1>
   <p>
-    My research focuses on Trustworthy AI, Human-Centered AI, and DeFi & Blockchain,
-    with a recent emphasis on safety and privacy for embodied AI systems.
+    My research spans AI4Sec, AI4Finance, and Trustworthy AI, with a focus on
+    securing AI-enabled systems, building intelligent financial technologies,
+    and making foundation models and agents safer, more transparent, and more reliable.
   </p>
 </section>
 

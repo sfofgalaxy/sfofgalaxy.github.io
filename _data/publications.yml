@@ -16,7 +16,7 @@
   authors: "**Zifan Peng***, Yini Huang*, Aiwen Lu*, Qiming Ye, Peixian Zhang, Jingyi Zheng, Yule Liu, Xuechao Wang, Xinlei He†, Jiaheng Wei†"
   venue: "arXiv preprint arXiv:2606.06784"
   year: 2026
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "This work benchmarks user-level privacy leakage on social media and evaluates an agentic framework for cumulative cross-post inference."
   abstract: >-
     Public social media posts can reveal private information through weak signals spread across text, images, and metadata, especially when cues accumulate across posts. This work introduces SopriBench, a synthetic benchmark for user-level multimodal privacy leakage guided by leakage patterns from Rednote and Instagram accounts, and proposes the Privacy Exposure Score to measure exposure severity beyond binary correctness. It further presents Argus, a training-free agentic framework that forms hypotheses from accumulated evidence, verifies support, and aggregates cross-post cues into privacy profiles, improving privacy leakage inference over existing baselines.
@@ -44,7 +44,7 @@
   authors: "Yule Liu, Yilong Yang, Jiale Teng, Hanze Jia, Zeren Luo, Jingyi Zheng, **Zifan Peng**, Ke Li, Yifan Liao, Zhen Sun, Jiaheng Wei, Yang Liu, Zhuo Ma, Xinlei He†"
   venue: "arXiv preprint arXiv:2605.09606"
   year: 2026
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "This work measures whether image-to-3D systems can generate harmful geometries and evaluates geometry-aware safeguards."
   abstract: >-
     Image-to-3D systems make 3D content creation more accessible, but they can also reconstruct unsafe physical geometries that may create real-world risks. This work studies harmful geometry generation across direct-use physical hazards, risky components, and deceptive replicas, evaluating open-source and commercial systems under original, degraded, viewpoint-shifted, and semantically camouflaged inputs. It combines geometric validity checks, multi-view vision-language scoring, human validation, and controlled fabrication to assess risk and moderation. The results show that existing safeguards rarely catch such outputs, and the paper evaluates input moderation, model-level alignment, output filtering, and a stacked defense as first steps toward better geometry-aware safeguards.
@@ -58,7 +58,7 @@
   authors: "Jingyi Zheng, Yule Liu, **Zifan Peng**, Tianyi Hu, Yuemeng Zhao, Xinhu Zheng, Xinlei He"
   venue: "ACM International Conference on Multimedia"
   year: 2026
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "TransMeme introduces a multi-agent framework for adapting memes across cultural contexts while preserving communicative intent."
   abstract: >-
     Memes often depend on culturally specific references, humor, and visual-textual conventions, making direct translation insufficient for cross-cultural communication. TransMeme frames this challenge as meme transcreation and introduces a multi-agent framework for adapting meme content across cultures while preserving the original communicative intent, humor, and multimodal structure.
@@ -69,7 +69,7 @@
   selected: false
   venue: "arXiv preprint arXiv:2603.28551"
   year: 2026
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "This work studies how users understand and audit computer-use agents after delegated tasks."
   abstract: >-
     Personalized computer-use agents can install skills, invoke tools, access private resources, and modify local environments, leaving users uncertain about delegated authority, executed actions, and persistent side effects. This work investigates risk understanding and post-hoc auditability using OpenClaw as a motivating case. It builds a multi-source ecosystem corpus and conducts interviews about skills, autonomy, privilege, persistence, and uninstallation. Motivated by the findings, it proposes AgentTrace, a traceability framework and prototype interface that visualizes agent actions, touched resources, permission history, provenance, and persistent side effects. A scenario-based evaluation suggests that these views can help users understand agent behavior, detect anomalies, and calibrate trust.
@@ -83,7 +83,7 @@
   authors: "Shuhan Zhang†, **Zifan Peng**, Yinwang Ren"
   venue: "Journal of Artificial Societies & Social Simulation, 29(1), 1"
   year: 2026
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "GPLab uses LLM-driven agents to simulate social policy effects before deployment."
   abstract: >-
     Real-world social policy problems invariably involve complex dynamics with cross-domain, multi-factor interactions, posing significant challenges to ex-ante policy simulation and impact evaluation. Traditional statistical modeling approaches often fail to adequately capture individual behavioral heterogeneity and system-level dynamic propagation effects, while conventional agent-based modeling relies heavily on hand-crafted behavioral rules. GPLab integrates generative large language models with modular social system architecture, enabling bounded-rational agents to interact across policy-relevant subsystems. Case studies and cross-domain experiments show that the framework can capture policy-intensity effects, group heterogeneity, and opinion evolution patterns for public decision support.
@@ -99,7 +99,7 @@
   authors: "**Zifan Peng**, Yule Liu, Zhen Sun, Mingchen Li, Zeren Luo, Jingyi Zheng, Wenhan Dong†, Xinlei He†, Xuechao Wang, Yingjie Xue, Shengmin Xu, Xinyi Huang"
   venue: "International Conference on Learning Representations"
   year: 2026
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "JALMBench measures how audio language models behave under jailbreak attacks and defenses."
   abstract: >-
     Large Audio Language Models have made significant progress. While increasingly deployed in real-world applications, they face growing safety risks from jailbreak attacks that bypass safety alignment. JALMBench provides a benchmark for assessing LALM safety against jailbreak attacks, with 11,316 text samples and 245,355 audio samples across mainstream models, attack methods, and defenses. The evaluation shows that modality and model architecture strongly affect safety, that text-based safety alignment can partially transfer to audio, and that audio-specific defenses remain necessary.
@@ -113,7 +113,7 @@
   authors: "**Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He†"
   venue: "arXiv preprint arXiv:2512.06933"
   year: 2026
-  topic: decentralized-systems
+  topic: ai4finance
   summary: "TxSum turns opaque Ethereum transactions into grounded, risk-aware explanations for users."
   abstract: >-
     Understanding the economic intent of Ethereum transactions is critical for user safety, yet current tools expose only raw on-chain data or surface-level intent, leading to widespread blind signing. Through interviews with 16 Web3 users, this work finds that effective explanations should be structured, risk-aware, and grounded at the token-flow level. It formulates TxSum, a user-centered NLP task for Ethereum transaction understanding, and constructs a dataset of 187 complex Ethereum transactions annotated with transaction-level summaries and token flow-level semantic labels. It further introduces MATEX, a grounded multi-agent framework that retrieves external knowledge under uncertainty and audits explanations against raw traces, improving user comprehension and malicious-transaction rejection while maintaining a low false-rejection rate.
@@ -128,7 +128,7 @@
   selected: false
   venue: "International Conference on Machine Learning"
   year: 2026
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "NL2Repo-Bench evaluates whether coding agents can build complete repositories from natural-language requirements."
   abstract: >-
     Recent advances in coding agents suggest progress toward autonomous software development, yet existing benchmarks do not rigorously evaluate the long-horizon capabilities required to build complete software systems. NL2Repo-Bench evaluates repository generation from a single natural-language requirements document and an empty workspace, requiring agents to design architecture, manage dependencies, implement multi-module logic, and produce a fully installable Python library. Experiments across open- and closed-source models show that long-horizon repository generation remains largely unsolved, with common failures including premature termination, loss of global coherence, fragile cross-file dependencies, and inadequate planning.
@@ -144,7 +144,7 @@
   authors: "Yule Liu, Heyi Zhang, Jinyi Zheng, Zhen Sun, **Zifan Peng**, Jiaheng Wei, Tianshuo Cong, Yilong Yang†, Xinlei He†"
   venue: "arXiv preprint arXiv:2511.14045"
   year: 2025
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "This paper studies data membership auditing in RLVR-trained models through prompt-conditioned behavioral traces."
   abstract: >-
     Reinforcement Learning with Verifiable Rewards has become a core training stage in recent large language models, and its reliance on non-public prompt sets creates a need for exposure auditing. This work shows that RLVR can leave detectable behavioral traces on training prompts, even when classic membership inference approaches are not directly applicable. It proposes Divergence-in-Behavior Auditing, a query-level framework that compares a fine-tuned model with its pre-RLVR checkpoint using reward-side and policy-side evidence. Experiments show strong auditing performance under white-box settings and useful transfer under practical grey-box settings.
@@ -158,7 +158,7 @@
   authors: "Jingyi Zheng*, Tianyi Hu*, Yule Liu, Zhen Sun, Zongmin Zhang, **Zifan Peng**, Wenhan Dong†, Xinlei He†"
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "CHASM investigates covert advertising behavior on Chinese social media."
   abstract: >-
     Current benchmarks for evaluating large language models in social media moderation overlook covert advertisements, which disguise themselves as regular posts and can mislead consumers. CHASM is a manually curated multimodal dataset of 4,992 Rednote instances for evaluating the ability of MLLMs to detect covert advertisements. The results show that current MLLMs remain unreliable under zero-shot and in-context learning, while fine-tuning improves performance but still leaves challenges such as subtle cues in comments and differences in visual and textual structures.
@@ -173,7 +173,7 @@
   selected: false
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "SuperGPQA expands graduate-level LLM evaluation across hundreds of specialized disciplines."
   abstract: >-
     Large language models perform well in mainstream academic disciplines, but human knowledge spans many specialized fields that existing benchmarks do not cover. SuperGPQA evaluates graduate-level knowledge and reasoning across 285 disciplines using a Human-LLM collaborative filtering mechanism to remove trivial or ambiguous questions. Experiments show that current state-of-the-art models still have significant room for improvement across diverse knowledge domains, and the project offers methodological insights for managing large-scale expert annotation.
@@ -187,7 +187,7 @@
   authors: "Zeren Luo*, **Zifan Peng***, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, Xinlei He†"
   venue: "USENIX Security Symposium"
   year: 2025
-  topic: trustworthy-ai
+  topic: ai4sec
   summary: "This paper quantifies and mitigates safety risks in AI-powered web search."
   abstract: >-
     AI-powered search engines can provide precise answers by combining external databases with model knowledge, but they also risk quoting malicious content or citing unsafe websites. This study defines threat models and risk types, then evaluates seven production systems across multiple query settings. It finds that AI-powered search engines can generate harmful content with malicious URLs even for benign queries, and it develops an agent-based defense using content refinement and URL detection to reduce risk with only modest loss of available information.
@@ -201,7 +201,7 @@
   authors: "Jingyi Zheng*, **Zifan Peng***, Yule Liu, Junfeng Wang, Yifan Liao, Wenhan Dong, Xinlei He†"
   venue: "arXiv preprint arXiv:2507.15761"
   year: 2025
-  topic: decentralized-systems
+  topic: ai4finance
   summary: "GasAgent uses collaborating agents to discover, validate, and apply smart-contract gas optimizations."
   abstract: >-
     Smart contracts require gas-efficient execution, but many contracts contain waste patterns that are costly to discover and maintain manually. GasAgent is a multi-agent system for smart contract gas optimization that combines compatibility with existing patterns and automated discovery and validation of new patterns. Its Seeker, Innovator, Executor, and Manager agents collaborate in a closed loop to identify, validate, and apply gas-saving improvements. Experiments on verified contracts and LLM-generated contracts show practical deployment gas savings and broad usability as an optimization layer.
@@ -215,7 +215,7 @@
   authors: "**Zifan Peng**, Yingjie Xue†, Jingyu Liu"
   venue: "IEEE International Conference on Web Services"
   year: 2025
-  topic: decentralized-systems
+  topic: ai4finance
   summary: "This protocol enables trustless cross-chain options without bridges or upfront holder collateral."
   abstract: >-
     Options are important tools for risk management and speculation in decentralized finance, but current mechanisms often rely on trusted third parties, support limited assets, suffer high delays, or require holders to provide upfront collateral. This work presents a cross-chain options protocol that eliminates holder collateral in trustless environments by introducing a guarantee from the option writer. Its design supports options involving assets on different blockchains when the chains can execute the required contract logic, and it uses Double-Authentication-Preventing Signatures to reduce position transfer latency. Security analysis and evaluation show secure option trading and lower transfer latency than existing methods.
@@ -229,7 +229,7 @@
   authors: "Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He†, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo†"
   venue: "arXiv preprint arXiv:2508.14377"
   year: 2025
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "ZPD-SCA evaluates whether LLMs can judge reading difficulty for cognitively aligned education."
   abstract: >-
     Large language models show promise in education, but their ability to assess whether reading materials match students' developmental stages remains underexplored. ZPD-SCA is a benchmark for evaluating stage-level Chinese reading comprehension difficulty, annotated by expert teachers. Experiments show that LLMs perform poorly in zero-shot settings but improve substantially with in-context examples, while still displaying systematic biases and genre-dependent variation. The benchmark supports evaluation and improvement of cognitively aligned educational applications.
@@ -243,7 +243,7 @@
   authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.04488"
   year: 2025
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "This work evaluates real-time VideoLLMs for assistive scenarios involving visually impaired users."
   abstract: >-
     Visually impaired people face significant challenges in daily activities, and prior vision-language assistance often focuses on static content rather than real-time perception. This work evaluates real-time VideoLLMs for supporting daily life through a user survey, the VisAssistDaily benchmark, and a user study on hazard perception. It also proposes SafeVid, an environment-awareness dataset, and fine-tunes VITA-1.5 to improve risk recognition accuracy. The study provides empirical guidance for future assistive VideoLLM systems.
@@ -271,7 +271,7 @@
   authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.00049"
   year: 2025
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "This survey maps psychological measurement methods, datasets, and applications for LLMs."
   abstract: >-
     As large language models are increasingly used in human-centered tasks, evaluating their psychological traits is important for social impact and trustworthy alignment. This survey reviews assessment tools, LLM-specific datasets, evaluation metrics, empirical findings, personality simulation methods, and LLM-based behavior simulation. It highlights both the strengths and limitations of current approaches, including variability across tasks and settings, mismatches between psychological tools and model capabilities, and inconsistent evaluation practices. The paper proposes directions for more interpretable and robust psychological assessment frameworks.
@@ -285,7 +285,7 @@
   authors: "Xiang Liu*, Mingchen Li*, Xia Li†, Leigang Qu, Guansu Wang, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang†, Jialin Li"
   venue: "arXiv preprint arXiv:2502.09125"
   year: 2025
-  topic: human-centered-ai
+  topic: trustworthy-ai
   summary: "This work improves neural network pruning by preserving class-wise information with structured lasso methods."
   abstract: >-
     Modern applications require lightweight neural network models, but many pruning methods remove filters without sufficiently preserving class-wise information. This work uses structured lasso and Information Bottleneck theory to prune filters while retaining statistical information before and after pruning. It proposes sparse graph-structured lasso pruning and sparse tree-guided lasso pruning with more precise class-wise relatedness. Experiments across datasets and model architectures reduce parameters and FLOPs while maintaining accuracy, including strong results on CIFAR-10 and ImageNet.
@@ -299,7 +299,7 @@
   authors: "**Zifan Peng**, Mingchen Li, Yue Wang†, Daniel Y. Mo"
   venue: "Machine Learning, 114(1), 6"
   year: 2025
-  topic: human-centered-ai
+  topic: ai4sec
   summary: "This paper uses prompt-based contrastive learning to assess COVID-19 misinformation under sparse and imbalanced data."
   abstract: >-
     The COVID-19 pandemic brought an influx of misinformation and disinformation online, especially on social media. This study presents a prompt-based contrastive learning approach for combating the infodemic under data scarcity and class imbalance. It models infodemic response as a series of text classification tasks about credibility, societal harm, and the need for intervention. Experiments show that prompt-based contrastive learning is effective in assessing the accuracy of COVID-19-related online text.
@@ -313,7 +313,7 @@
   authors: "Yingjie Xue†, Jingyu Liu, **Zifan Peng**, Chao Lin, Jianan Hong, Xinyi Huang"
   venue: "IEEE Transactions on Dependable and Secure Computing"
   year: 2025
-  topic: decentralized-systems
+  topic: ai4finance
   summary: "FairRelay provides fair, low-cost payment settlement for multi-hop peer-to-peer content delivery."
   abstract: >-
     Peer-to-peer content delivery offers a decentralized alternative to traditional content delivery networks, but fair compensation for relayers remains difficult. FairRelay is a fair and cost-efficient protocol for complex content delivery network settings. It introduces Enforceable Accumulative Hashed TimeLock Contract to guarantee payment atomicity, and proves fairness using the Universal Composability framework. Evaluation shows zero on-chain costs in optimistic scenarios, constant dispute costs in pessimistic scenarios, and low transmission overhead in multi-hop relay paths.
@@ -327,7 +327,7 @@
   authors: "**Zifan Peng**, Mingchen Li, Yue Wang†, George T.S. Ho"
   venue: "Expert Systems with Applications, 229, 120501"
   year: 2024
-  topic: human-centered-ai
+  topic: ai4sec
   summary: "This work combats COVID-19 misinformation with prompt-based curriculum learning for low-resource text classification."
   abstract: >-
     The COVID-19 pandemic was accompanied by widespread online misinformation and disinformation. This paper combats the COVID-19 infodemic by determining the credibility of information, its potential societal harm, and the need for intervention. It proposes a prompt-based curriculum learning method to address data sparsity and class imbalance in social media text. Experiments show that prompt tuning and curriculum learning improve reliability assessment and outperform typical text classification methods such as fastText and BERT.

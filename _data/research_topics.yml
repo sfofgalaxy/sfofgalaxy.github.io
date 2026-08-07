@@ -1,18 +1,18 @@
-- id: trustworthy-ai
+- id: ai4sec
   label: "01"
-  title: Trustworthy AI
-  summary: "Jailbreak robustness, AI-powered search safety, privacy risk, covert content, and reliable evaluation for frontier AI systems."
+  title: AI4Sec
+  summary: "Security, privacy, and content integrity for AI-enabled web, social, audio, agentic, and multimodal systems."
   accent: safety
   icon: shield
-- id: human-centered-ai
+- id: ai4finance
   label: "02"
-  title: Human-Centered AI
-  summary: "LLM evaluation, policy simulation, cognitive assessment, visual assistance, human-agent applications, and applied machine learning."
-  accent: social
-  icon: users
-- id: decentralized-systems
-  label: "03"
-  title: DeFi & Blockchain
-  summary: "Secure and efficient decentralized protocols, smart contract analysis, gas optimization, payment channels, and cross-chain financial primitives."
+  title: AI4Finance
+  summary: "AI for transaction understanding and smart-contract optimization, together with secure DeFi, payment, and cross-chain financial protocols."
   accent: defi
   icon: network
+- id: trustworthy-ai
+  label: "03"
+  title: Trustworthy AI
+  summary: "Reliable evaluation, transparent and auditable agents, efficient models, human-aligned applications, and responsible AI deployment."
+  accent: social
+  icon: target

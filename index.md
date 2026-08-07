@@ -2,7 +2,7 @@
 title: Home
 show_title: false
 news_toggle: true
-excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI and DeFi & Blockchain."
+excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on AI4Sec, AI4Finance, and Trustworthy AI."
 ---
 
 <section class="intro-card">
@@ -17,17 +17,17 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     I am co-supervised by <a href="https://xinleihe.github.io/">Prof. Xinlei He</a>,
     <a href="https://xuechao2.github.io/">Prof. Xuechao Wang</a>, and
     <a href="https://yingjiexue-brown.github.io/">Dr. Yingjie Xue</a>.
-    My current research interests lie in
-    <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
-    <a href="{{ "/research/#human-centered-ai" | relative_url }}">Human-Centered AI</a>, and
-    <a href="{{ "/research/#decentralized-systems" | relative_url }}">DeFi & Blockchain</a>.
+    My current research interests lie at the intersection of
+    <a href="{{ "/research/#ai4sec" | relative_url }}">AI4Sec</a>,
+    <a href="{{ "/research/#ai4finance" | relative_url }}">AI4Finance</a>, and
+    <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>.
     <!-- Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI. -->
   </p>
   <div class="interest-pills" aria-label="Research focus">
     <span class="interest-pills-label">Focus:</span>
-    <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
-    <a href="{{ "/research/#human-centered-ai" | relative_url }}">{% include icon.html name="users" %}<span>Human-Centered AI</span></a>
-    <a href="{{ "/research/#decentralized-systems" | relative_url }}">{% include icon.html name="network" %}<span>DeFi & Blockchain</span></a>
+    <a href="{{ "/research/#ai4sec" | relative_url }}">{% include icon.html name="shield" %}<span>AI4Sec</span></a>
+    <a href="{{ "/research/#ai4finance" | relative_url }}">{% include icon.html name="network" %}<span>AI4Finance</span></a>
+    <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="target" %}<span>Trustworthy AI</span></a>
   </div>
 </section>
 
