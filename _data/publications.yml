@@ -111,7 +111,7 @@
       url: "https://www.arxiv.org/abs/2505.17568"
 - title: "TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding"
   authors: "**Zifan Peng**, Jingyi Zheng, Yule Liu, Huaiyu Jia, Qiming Ye, Jingyu Liu, Xufeng Yang, Mingchen Li, Qingyuan Gong, Xuechao Wang, Xinlei He†"
-  venue: "arXiv preprint arXiv:2512.06933"
+  venue: "Conference on Empirical Methods in Natural Language Processing"
   year: 2026
   topic: ai4finance
   summary: "TxSum turns opaque Ethereum transactions into grounded, risk-aware explanations for users."
@@ -119,7 +119,7 @@
     Understanding the economic intent of Ethereum transactions is critical for user safety, yet current tools expose only raw on-chain data or surface-level intent, leading to widespread blind signing. Through interviews with 16 Web3 users, this work finds that effective explanations should be structured, risk-aware, and grounded at the token-flow level. It formulates TxSum, a user-centered NLP task for Ethereum transaction understanding, and constructs a dataset of 187 complex Ethereum transactions annotated with transaction-level summaries and token flow-level semantic labels. It further introduces MATEX, a grounded multi-agent framework that retrieves external knowledge under uncertainty and audits explanations against raw traces, improving user comprehension and malicious-transaction rejection while maintaining a low false-rejection rate.
   webpage: "https://arxiv.org/abs/2512.06933"
   badges:
-    - "arXiv 2026"
+    - "EMNLP 2026"
   links:
     - label: arXiv
       url: "https://arxiv.org/abs/2512.06933"
