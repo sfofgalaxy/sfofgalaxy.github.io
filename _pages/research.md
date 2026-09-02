@@ -3,22 +3,21 @@ title: Research
 permalink: /research/
 show_title: false
 publication_modal: true
-excerpt: "Research on AI4Sec, AI4Finance, and Trustworthy AI by Zifan Peng."
+excerpt: "Research on Trustworthy AI, AI4Finance, and Other topics by Zifan Peng."
 ---
 
 <section class="page-heading research-heading">
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research</span></p>
   <h1>Problems I keep returning to</h1>
   <p>
-    My research spans AI4Sec, AI4Finance, and Trustworthy AI, with a focus on
-    securing AI-enabled systems, building intelligent financial technologies,
-    and making foundation models and agents safer, more transparent, and more reliable.
+    My research spans Trustworthy AI, AI4Finance, and Other topics in large models,
+    DeFi, and financial technology.
   </p>
 </section>
 
 <section class="topic-jump-grid" aria-label="Research topic navigation">
   {% for topic in site.data.research_topics %}
-    {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
+    {% assign topic_papers = site.data.publications | where: "topic", topic.id | sort: "year" | reverse %}
     <a class="topic-jump topic-{{ topic.accent }}" href="#{{ topic.id }}">
       <span class="topic-jump-meta">
         <span class="topic-number">{{ topic.label }}</span>
@@ -39,7 +38,8 @@ excerpt: "Research on AI4Sec, AI4Finance, and Trustworthy AI by Zifan Peng."
 
   <div class="publication-grid">
     {% assign selected_current_year = "" %}
-    {% for paper in site.data.publications %}
+    {% assign sorted_papers = site.data.publications | sort: "year" | reverse %}
+    {% for paper in sorted_papers %}
       {% assign first_author = paper.authors | split: "," | first | strip %}
       {% assign is_selected_paper = false %}
       {% if first_author contains "**Zifan Peng**" or paper.authors contains "**Zifan Peng***" %}
@@ -114,7 +114,7 @@ excerpt: "Research on AI4Sec, AI4Finance, and Trustworthy AI by Zifan Peng."
 </section>
 
 {% for topic in site.data.research_topics %}
-  {% assign topic_papers = site.data.publications | where: "topic", topic.id %}
+  {% assign topic_papers = site.data.publications | where: "topic", topic.id | sort: "year" | reverse %}
   <section class="research-topic-section" id="{{ topic.id }}">
     <div class="topic-section-heading">
       <p class="section-kicker"><span>Topic {{ topic.label }} · {{ topic_papers | size }} papers</span></p>

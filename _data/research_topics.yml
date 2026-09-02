@@ -1,18 +1,18 @@
-- id: ai4sec
+- id: trustworthy-ai
   label: "01"
-  title: AI4Sec
-  summary: "Security, privacy, and content integrity for AI-enabled web, social, audio, agentic, and multimodal systems."
+  title: Trustworthy AI
+  summary: "Security, privacy, safety, transparency, and auditability for AI systems."
   accent: safety
   icon: shield
 - id: ai4finance
   label: "02"
   title: AI4Finance
-  summary: "AI for transaction understanding and smart-contract optimization, together with secure DeFi, payment, and cross-chain financial protocols."
+  summary: "AI for understanding, optimizing, and securing financial systems and transactions."
   accent: defi
   icon: network
-- id: trustworthy-ai
+- id: other
   label: "03"
-  title: Trustworthy AI
-  summary: "Reliable evaluation, transparent and auditable agents, efficient models, human-aligned applications, and responsible AI deployment."
+  title: Other
+  summary: "Large-model capabilities, multimodal and agentic applications, traditional DeFi, and broader financial technology."
   accent: social
   icon: target
