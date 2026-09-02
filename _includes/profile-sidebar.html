@@ -19,11 +19,20 @@
     </dl>
 
     <div class="profile-links" aria-label="Profile links">
-      <a href="https://scholar.google.com/citations?user=2M8-SOwAAAAJ">{% include icon.html name="scholar" %}<span>Google Scholar</span></a>
+      <div class="profile-scholar-row">
+        <a href="{{ site.google_scholar.url }}" aria-label="Google Scholar">{% include icon.html name="scholar" %}<span>Scholar</span></a>
+        <a
+          class="profile-citation-link"
+          href="{{ site.google_scholar.url }}"
+          aria-label="{{ site.google_scholar.citations }} Google Scholar citations"
+          title="Google Scholar citations, checked {{ site.google_scholar.citations_updated }}">
+          <span class="profile-citation-icon">{% include icon.html name="scholar" %}</span>
+          <span class="profile-citation-label">citations</span>
+          <span class="profile-citation-value">{{ site.google_scholar.citations }}</span>
+        </a>
+      </div>
       <a href="https://github.com/sfofgalaxy">{% include icon.html name="github" %}<span>GitHub</span></a>
       <a href="https://www.linkedin.com/in/zifan-peng-968205219/">{% include icon.html name="linkedin" %}<span>LinkedIn</span></a>
-      <a href="https://twitter.com/sfofgalaxy">{% include icon.html name="twitter" %}<span>Twitter</span></a>
-      <a href="https://www.instagram.com/ziffer99/">{% include icon.html name="instagram" %}<span>Instagram</span></a>
     </div>
   </div>
 </aside>

@@ -21,13 +21,15 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 
-twitter:
-  username: sfofgalaxy
 author: Zifan
+google_scholar:
+  url: "https://scholar.google.com/citations?user=2M8-SOwAAAAJ"
+  citations: 460
+  citations_updated: "2026-09"
 social:
   name: Zifan Peng
   links:
-    - https://twitter.com/sfofgalaxy
+    - https://scholar.google.com/citations?user=2M8-SOwAAAAJ
     - https://www.linkedin.com/in/zifan-peng-968205219/
     - https://github.com/sfofgalaxy
 
@@ -62,7 +64,7 @@ encoding: utf-8
 lang: en-GB
 title: "Zifan Peng"
 logo: "/assets/logos/logo.svg"
-description: "Ph.D. Candidate in Financial Technology at HKUST (GZ), working on Trustworthy AI, AI4Finance, and Other topics in large models, DeFi, and financial technology."
+description: "Ph.D. Candidate in Financial Technology at HKUST (GZ), working on Trustworthy AI, AI4Finance & DeFi, and Foundation Models & AI Applications."
 url: "https://www.ziffer.top"
 baseurl: ""
 email: "sfofgalaxy[AT]gmail.com"

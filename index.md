@@ -2,7 +2,7 @@
 title: Home
 show_title: false
 news_toggle: true
-excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI, AI4Finance, and Other topics in large models, DeFi, and financial technology."
+excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI, AI4Finance & DeFi, and Foundation Models & AI Applications."
 ---
 
 <section class="intro-card">
@@ -19,15 +19,15 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="https://yingjiexue-brown.github.io/">Dr. Yingjie Xue</a>.
     My current research interests lie in
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
-    <a href="{{ "/research/#ai4finance" | relative_url }}">AI4Finance</a>, and
-    <a href="{{ "/research/#other" | relative_url }}">Other</a> topics spanning large models, DeFi, and financial technology.
+    <a href="{{ "/research/#ai4finance" | relative_url }}">AI4Finance &amp; DeFi</a>, and
+    <a href="{{ "/research/#foundation-models" | relative_url }}">Foundation Models &amp; AI Applications</a>.
     <!-- Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI. -->
   </p>
   <div class="interest-pills" aria-label="Research focus">
     <span class="interest-pills-label">Focus:</span>
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
-    <a href="{{ "/research/#ai4finance" | relative_url }}">{% include icon.html name="network" %}<span>AI4Finance</span></a>
-    <a href="{{ "/research/#other" | relative_url }}">{% include icon.html name="target" %}<span>Other</span></a>
+    <a href="{{ "/research/#ai4finance" | relative_url }}">{% include icon.html name="network" %}<span>AI4Finance &amp; DeFi</span></a>
+    <a href="{{ "/research/#foundation-models" | relative_url }}">{% include icon.html name="target" %}<span>Foundation Models &amp; AI Applications</span></a>
   </div>
 </section>
 
@@ -204,16 +204,19 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
 
     <section class="experience-block">
       <h3>{% include icon.html name="service" %}<span>Service</span></h3>
-      <div class="compact-list service-columns">
-        <p class="service-role-title">Reviewer or AC</p>
-        <p>ACL</p>
-        <p>ICWSM</p>
-        <p>Security AE</p>
-        <p>ICDCS</p>
-        <p>MM</p>
-        <p>TDSC</p>
-        <p>WWW</p>
-        <p class="service-wide">ACM Conference on AI and Agentic Systems</p>
+      <div class="compact-list service-list">
+        <div class="service-group">
+          <p class="service-role-title">Conference Reviewer</p>
+          <ul class="service-year-list">
+            <li><strong>2026</strong><span>EMNLP, AAAI, ICLR</span></li>
+            <li><strong>2025</strong><span>EMNLP, AAAI, ICLR</span></li>
+            <li><strong>2024</strong><span>EMNLP, AAAI, ICLR</span></li>
+          </ul>
+        </div>
+        <div class="service-group">
+          <p class="service-role-title">Additional Reviewing and Service</p>
+          <p class="service-other-list">ACL, ICWSM, Security AE, ICDCS, MM, TDSC, WWW, and ACM Conference on AI and Agentic Systems</p>
+        </div>
       </div>
     </section>
   </div>

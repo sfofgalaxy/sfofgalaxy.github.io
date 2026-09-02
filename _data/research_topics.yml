@@ -6,13 +6,13 @@
   icon: shield
 - id: ai4finance
   label: "02"
-  title: AI4Finance
-  summary: "AI for understanding, optimizing, and securing financial systems and transactions."
+  title: AI4Finance & DeFi
+  summary: "AI for financial systems, smart contracts, on-chain transactions, and decentralized finance infrastructure."
   accent: defi
   icon: network
-- id: other
+- id: foundation-models
   label: "03"
-  title: Other
-  summary: "General large-model capabilities, multimodal and agentic applications, traditional DeFi, and broader financial technology."
+  title: Foundation Models & AI Applications
+  summary: "Large models, multimodal and agentic systems, evaluation, reasoning, and efficient model design."
   accent: social
   icon: target

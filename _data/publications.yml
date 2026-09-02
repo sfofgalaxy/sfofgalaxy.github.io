@@ -58,7 +58,7 @@
   authors: "Jingyi Zheng, Yule Liu, **Zifan Peng**, Tianyi Hu, Yuemeng Zhao, Xinhu Zheng, Xinlei He"
   venue: "ACM International Conference on Multimedia"
   year: 2026
-  topic: other
+  topic: foundation-models
   summary: "TransMeme introduces a multi-agent framework for adapting memes across cultural contexts while preserving communicative intent."
   abstract: >-
     Memes often depend on culturally specific references, humor, and visual-textual conventions, making direct translation insufficient for cross-cultural communication. TransMeme frames this challenge as meme transcreation and introduces a multi-agent framework for adapting meme content across cultures while preserving the original communicative intent, humor, and multimodal structure.
@@ -87,7 +87,7 @@
   authors: "Shuhan Zhang†, **Zifan Peng**, Yinwang Ren"
   venue: "Journal of Artificial Societies & Social Simulation, 29(1), 1"
   year: 2026
-  topic: other
+  topic: foundation-models
   summary: "GPLab uses LLM-driven agents to simulate social policy effects before deployment."
   abstract: >-
     Real-world social policy problems invariably involve complex dynamics with cross-domain, multi-factor interactions, posing significant challenges to ex-ante policy simulation and impact evaluation. Traditional statistical modeling approaches often fail to adequately capture individual behavioral heterogeneity and system-level dynamic propagation effects, while conventional agent-based modeling relies heavily on hand-crafted behavioral rules. GPLab integrates generative large language models with modular social system architecture, enabling bounded-rational agents to interact across policy-relevant subsystems. Case studies and cross-domain experiments show that the framework can capture policy-intensity effects, group heterogeneity, and opinion evolution patterns for public decision support.
@@ -132,7 +132,7 @@
   selected: false
   venue: "International Conference on Machine Learning"
   year: 2026
-  topic: other
+  topic: foundation-models
   summary: "NL2Repo-Bench evaluates whether coding agents can build complete repositories from natural-language requirements."
   abstract: >-
     Recent advances in coding agents suggest progress toward autonomous software development, yet existing benchmarks do not rigorously evaluate the long-horizon capabilities required to build complete software systems. NL2Repo-Bench evaluates repository generation from a single natural-language requirements document and an empty workspace, requiring agents to design architecture, manage dependencies, implement multi-module logic, and produce a fully installable Python library. Experiments across open- and closed-source models show that long-horizon repository generation remains largely unsolved, with common failures including premature termination, loss of global coherence, fragile cross-file dependencies, and inadequate planning.
@@ -177,7 +177,7 @@
   selected: false
   venue: "Conference on Neural Information Processing Systems"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "SuperGPQA expands graduate-level LLM evaluation across hundreds of specialized disciplines."
   abstract: >-
     Large language models perform well in mainstream academic disciplines, but human knowledge spans many specialized fields that existing benchmarks do not cover. SuperGPQA evaluates graduate-level knowledge and reasoning across 285 disciplines using a Human-LLM collaborative filtering mechanism to remove trivial or ambiguous questions. Experiments show that current state-of-the-art models still have significant room for improvement across diverse knowledge domains, and the project offers methodological insights for managing large-scale expert annotation.
@@ -219,7 +219,7 @@
   authors: "**Zifan Peng**, Yingjie Xue†, Jingyu Liu"
   venue: "IEEE International Conference on Web Services"
   year: 2025
-  topic: other
+  topic: ai4finance
   summary: "This protocol enables trustless cross-chain options without bridges or upfront holder collateral."
   abstract: >-
     Options are important tools for risk management and speculation in decentralized finance, but current mechanisms often rely on trusted third parties, support limited assets, suffer high delays, or require holders to provide upfront collateral. This work presents a cross-chain options protocol that eliminates holder collateral in trustless environments by introducing a guarantee from the option writer. Its design supports options involving assets on different blockchains when the chains can execute the required contract logic, and it uses Double-Authentication-Preventing Signatures to reduce position transfer latency. Security analysis and evaluation show secure option trading and lower transfer latency than existing methods.
@@ -233,7 +233,7 @@
   authors: "Wenhan Dong, Zhen Sun, Yuemeng Zhao, **Zifan Peng**, Jun Wu, Jingyi Zheng, Yule Liu, Xinlei He†, Yu Wang, Ruiming Wang, Xinyi Huang, Lei Mo†"
   venue: "arXiv preprint arXiv:2508.14377"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "ZPD-SCA evaluates whether LLMs can judge reading difficulty for cognitively aligned education."
   abstract: >-
     Large language models show promise in education, but their ability to assess whether reading materials match students' developmental stages remains underexplored. ZPD-SCA is a benchmark for evaluating stage-level Chinese reading comprehension difficulty, annotated by expert teachers. Experiments show that LLMs perform poorly in zero-shot settings but improve substantially with in-context examples, while still displaying systematic biases and genre-dependent variation. The benchmark supports evaluation and improvement of cognitively aligned educational applications.
@@ -247,7 +247,7 @@
   authors: "Ziyi Zhang*, Zhen Sun*, Zongmin Zhang, **Zifan Peng**, Yuemeng Zhao, Zichun Wang, Zeren Luo, Ruiting Zuo, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.04488"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "This work evaluates real-time VideoLLMs for assistive scenarios involving visually impaired users."
   abstract: >-
     Visually impaired people face significant challenges in daily activities, and prior vision-language assistance often focuses on static content rather than real-time perception. This work evaluates real-time VideoLLMs for supporting daily life through a user survey, the VisAssistDaily benchmark, and a user study on hazard perception. It also proposes SafeVid, an environment-awareness dataset, and fine-tunes VITA-1.5 to improve risk recognition accuracy. The study provides empirical guidance for future assistive VideoLLM systems.
@@ -261,7 +261,7 @@
   authors: "Yule Liu, Jingyi Zheng, Zhen Sun, **Zifan Peng**, Wenhan Dong, Zeyang Sha, Shiwen Cui, Weiqiang Wang, Xinlei He†"
   venue: "arXiv preprint arXiv:2504.13626"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "Thought Manipulation reduces overthinking in large reasoning models by steering reasoning with external chains of thought."
   abstract: >-
     Large reasoning models benefit from test-time computation, but they often overthink by producing redundant reasoning steps with limited performance gains. This work shows that placing external chains of thought generated by smaller models inside thinking-token boundaries can cause large reasoning models to generate fewer thoughts. The proposed pipeline reduces output token counts while preserving performance in representative reasoning settings, and it analyzes failure modes such as following flawed external thoughts or unnecessarily rethinking. The method offers a practical way to improve inference efficiency for large reasoning models.
@@ -275,7 +275,7 @@
   authors: "Wenhan Dong*, Yuemeng Zhao*, Zhen Sun, Yule Liu, **Zifan Peng**, Jingyi Zheng, Zongmin Zhang, Ziyi Zhang, Jun Wu, Ruiming Wang, Shengmin Xu, Xinyi Huang, Xinlei He†"
   venue: "arXiv preprint arXiv:2505.00049"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "This survey maps psychological measurement methods, datasets, and applications for LLMs."
   abstract: >-
     As large language models are increasingly used in human-centered tasks, evaluating their psychological traits is important for social impact and trustworthy alignment. This survey reviews assessment tools, LLM-specific datasets, evaluation metrics, empirical findings, personality simulation methods, and LLM-based behavior simulation. It highlights both the strengths and limitations of current approaches, including variability across tasks and settings, mismatches between psychological tools and model capabilities, and inconsistent evaluation practices. The paper proposes directions for more interpretable and robust psychological assessment frameworks.
@@ -289,7 +289,7 @@
   authors: "Xiang Liu*, Mingchen Li*, Xia Li†, Leigang Qu, Guansu Wang, **Zifan Peng**, Yijun Song, Zemin Liu, Linshan Jiang†, Jialin Li"
   venue: "arXiv preprint arXiv:2502.09125"
   year: 2025
-  topic: other
+  topic: foundation-models
   summary: "This work improves neural network pruning by preserving class-wise information with structured lasso methods."
   abstract: >-
     Modern applications require lightweight neural network models, but many pruning methods remove filters without sufficiently preserving class-wise information. This work uses structured lasso and Information Bottleneck theory to prune filters while retaining statistical information before and after pruning. It proposes sparse graph-structured lasso pruning and sparse tree-guided lasso pruning with more precise class-wise relatedness. Experiments across datasets and model architectures reduce parameters and FLOPs while maintaining accuracy, including strong results on CIFAR-10 and ImageNet.
@@ -317,7 +317,7 @@
   authors: "Yingjie Xue†, Jingyu Liu, **Zifan Peng**, Chao Lin, Jianan Hong, Xinyi Huang"
   venue: "IEEE Transactions on Dependable and Secure Computing"
   year: 2025
-  topic: other
+  topic: ai4finance
   summary: "FairRelay provides fair, low-cost payment settlement for multi-hop peer-to-peer content delivery."
   abstract: >-
     Peer-to-peer content delivery offers a decentralized alternative to traditional content delivery networks, but fair compensation for relayers remains difficult. FairRelay is a fair and cost-efficient protocol for complex content delivery network settings. It introduces Enforceable Accumulative Hashed TimeLock Contract to guarantee payment atomicity, and proves fairness using the Universal Composability framework. Evaluation shows zero on-chain costs in optimistic scenarios, constant dispute costs in pessimistic scenarios, and low transmission overhead in multi-hop relay paths.
