@@ -206,16 +206,16 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
       <h3>{% include icon.html name="service" %}<span>Service</span></h3>
       <div class="compact-list service-list">
         <div class="service-group">
-          <p class="service-role-title">Conference Reviewer</p>
+          <p class="service-role-title">Conference Reviewer or Area Chair</p>
           <ul class="service-year-list">
-            <li><strong>2026</strong><span>EMNLP, AAAI, ICLR</span></li>
-            <li><strong>2025</strong><span>EMNLP, AAAI, ICLR</span></li>
-            <li><strong>2024</strong><span>EMNLP, AAAI, ICLR</span></li>
+            <li><strong>2026</strong><span>ACL ARR, AAAI, ACM MM, ICWSM, USENIX Security AE, ICDCS, WWW (Web for Good), EMNLP, ICLR, and ACM Conference on AI and Agentic Systems</span></li>
+            <li><strong>2025</strong><span>ACL ARR, AAAI, ACM MM, ICWSM, USENIX Security AE, ICDCS, WWW (Web for Good), EMNLP, ICLR, and ACM Conference on AI and Agentic Systems</span></li>
+            <li><strong>2024</strong><span>ACL ARR, AAAI, ACM MM, ICWSM, USENIX Security AE, ICDCS, WWW (Web for Good), EMNLP, ICLR, and ACM Conference on AI and Agentic Systems</span></li>
           </ul>
         </div>
         <div class="service-group">
-          <p class="service-role-title">Additional Reviewing and Service</p>
-          <p class="service-other-list">ACL, ICWSM, Security AE, ICDCS, MM, TDSC, WWW, and ACM Conference on AI and Agentic Systems</p>
+          <p class="service-role-title">Journal Reviewer</p>
+          <p class="service-journal-list">IEEE TDSC, IEEE TIFS</p>
         </div>
       </div>
     </section>
