@@ -20,15 +20,16 @@
 
     <div class="profile-links" aria-label="Profile links">
       <div class="profile-scholar-row">
-        <a href="{{ site.google_scholar.url }}" aria-label="Google Scholar">{% include icon.html name="scholar" %}<span>Scholar</span></a>
+        <a href="{{ site.google_scholar.url }}">{% include icon.html name="scholar" %}<span>Google Scholar</span></a>
         <a
           class="profile-citation-link"
           href="{{ site.google_scholar.url }}"
           aria-label="{{ site.google_scholar.citations }} Google Scholar citations"
           title="Google Scholar citations, checked {{ site.google_scholar.citations_updated }}">
-          <span class="profile-citation-icon">{% include icon.html name="scholar" %}</span>
-          <span class="profile-citation-label">citations</span>
-          <span class="profile-citation-value">{{ site.google_scholar.citations }}</span>
+          <img
+            class="profile-citation-badge"
+            src="https://img.shields.io/badge/citations-{{ site.google_scholar.citations }}-9ac8f6?style=flat&amp;logo=googlescholar&amp;logoColor=4285f4&amp;labelColor=e2e2e2"
+            alt="{{ site.google_scholar.citations }} citations">
         </a>
       </div>
       <a href="https://github.com/sfofgalaxy">{% include icon.html name="github" %}<span>GitHub</span></a>
