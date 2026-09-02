@@ -1,7 +1,7 @@
 - id: trustworthy-ai
   label: "01"
   title: Trustworthy AI
-  summary: "Security, privacy, safety, transparency, and auditability for AI systems."
+  summary: "AI security, privacy, safety, transparency, and auditability for trustworthy AI systems."
   accent: safety
   icon: shield
 - id: ai4finance
@@ -13,6 +13,6 @@
 - id: other
   label: "03"
   title: Other
-  summary: "Large-model capabilities, multimodal and agentic applications, traditional DeFi, and broader financial technology."
+  summary: "General large-model capabilities, multimodal and agentic applications, traditional DeFi, and broader financial technology."
   accent: social
   icon: target
