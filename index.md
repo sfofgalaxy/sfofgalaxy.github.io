@@ -37,6 +37,10 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
   </div>
   <div class="news-panel">
     <article class="news-row">
+      <div class="news-date"><time datetime="2026-09">2026.09</time></div>
+      <p class="news-text">Our paper <em><a href="https://arxiv.org/abs/2511.14045">Auditing Data Membership in Reinforcement Learning With Verifiable Rewards</a></em> was accepted to NDSS 2027.</p>
+    </article>
+    <article class="news-row">
       <div class="news-date"><time datetime="2026-08">2026.08</time></div>
       <p class="news-text">Our paper <em><a href="{{ "/blog/2026/08/21/txsum-emnlp-2026/" | relative_url }}">TxSum</a></em> was accepted to EMNLP 2026.</p>
     </article>
@@ -46,7 +50,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     </article>
     <article class="news-row">
       <div class="news-date"><time datetime="2026-07">2026.07</time></div>
-      <p class="news-text">Our paper <em>TransMeme</em> was accepted to ACM MM 2026, introducing a multi-agent framework for cross-cultural meme transcreation.</p>
+      <p class="news-text">Our paper <em><a href="https://arxiv.org/abs/2608.27127">TransMeme</a></em> was accepted to ACM MM 2026, introducing a multi-agent framework for cross-cultural meme transcreation.</p>
     </article>
     <article class="news-row">
       <div class="news-date"><time datetime="2026-06">2026.06</time></div>
