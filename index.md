@@ -128,7 +128,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
           <div class="timeline-copy">
             <span>2021 - 2022</span>
             <p class="timeline-title">MSc in Information Technology · CSE</p>
-            <p><a href="https://hkust.edu.hk/">HKUST</a>, Hong Kong SAR · Advisor: <a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/flin">Prof. Fangzhen Lin</a></p>
+            <p><a href="https://hkust.edu.hk/">HKUST</a>, Hong Kong SAR</p>
+            <p>Advisor: <a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/flin">Prof. Fangzhen Lin</a></p>
+            <p>Research: NLP with prompt learning and BERT.</p>
           </div>
           <a class="timeline-logo timeline-logo--hkust" href="https://hkust.edu.hk/" aria-label="HKUST">
             <img src="{{ '/assets/logos/orgs/hkust.svg' | relative_url }}" alt="HKUST">
@@ -138,7 +140,9 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
           <div class="timeline-copy">
             <span>2017 - 2021</span>
             <p class="timeline-title">BEng in Software Engineering · College of Computer Science and Technology</p>
-            <p><a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China · Advisors: <a href="https://yajin.org">Prof. Yajin Zhou</a> and <a href="http://mypage.zju.edu.cn/lc">Prof. Ling Chen</a></p>
+            <p><a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China</p>
+            <p>Advisors: <a href="https://yajin.org">Prof. Yajin Zhou</a> and <a href="http://mypage.zju.edu.cn/lc">Prof. Ling Chen</a></p>
+            <p>Research: On-device model deployment and trustworthy systems.</p>
           </div>
           <a class="timeline-logo timeline-logo--zju" href="https://www.zju.edu.cn/english/" aria-label="Zhejiang University">
             <img src="{{ '/assets/logos/orgs/zju.svg' | relative_url }}" alt="Zhejiang University">
@@ -155,6 +159,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <span>2026.08 - Present</span>
             <p class="timeline-title">Research Intern</p>
             <p><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></p>
+            <p>Mentor: <a href="https://shenqildr.github.io/">Dr. Dongrui Liu</a></p>
             <p>Agent safety and synthetic data generation.</p>
           </div>
           <a class="timeline-logo" href="https://www.shlab.org.cn/" aria-label="Shanghai AI Laboratory">
@@ -176,6 +181,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <span>2022</span>
             <p class="timeline-title">Research Assistant</p>
             <p><a href="https://sosc.hkust.edu.hk/people/wenjuan-zheng">HKUST</a> & <a href="https://scm.hsu.edu.hk/hk/aboutus/faculty/56">HSU</a>, Hong Kong SAR</p>
+            <p>Advisor at HSU: <a href="https://www.eduhk.hk/mit/en/staff/wyue">Prof. Yue Wang</a></p>
           </div>
           <a class="timeline-logo timeline-logo--hkust" href="https://sosc.hkust.edu.hk/people/wenjuan-zheng" aria-label="HKUST">
             <img src="{{ '/assets/logos/orgs/hkust.svg' | relative_url }}" alt="HKUST">
