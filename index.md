@@ -155,7 +155,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <span>2026.08 - Present</span>
             <p class="timeline-title">Research Intern</p>
             <p><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></p>
-            <p>Agent safety, LLM safety, and synthetic data generation.</p>
+            <p>Agent safety and synthetic data generation.</p>
           </div>
           <a class="timeline-logo" href="https://www.shlab.org.cn/" aria-label="Shanghai AI Laboratory">
             <img src="{{ '/assets/logos/orgs/shlab.ico' | relative_url }}" alt="Shanghai AI Laboratory">
