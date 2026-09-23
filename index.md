@@ -225,8 +225,8 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
         <div class="service-group">
           <p class="service-role-title">Conference Reviewer or Area Chair</p>
           <ul class="service-year-list">
-            <li><strong>2027</strong><span>ICLR</span></li>
-            <li><strong>2026</strong><span>ACL ARR, AAAI, ACM MM, ICWSM, USENIX Security AE, EMNLP, ACM Conference on AI and Agentic Systems, INCRYPT</span></li>
+            <li><strong>2027</strong><span>ICLR, ICASSP</span></li>
+            <li><strong>2026</strong><span>ACL ARR, AAAI, ACM MM, ICWSM, USENIX Security AE, EMNLP, INCRYPT, ACM Conference on AI and Agentic Systems</span></li>
             <li><strong>2025</strong><span>AAAI, ICDCS</span></li>
             <li><strong>2024</strong><span>WWW, AAAI, AsiaCCS</span></li>
           </ul>
