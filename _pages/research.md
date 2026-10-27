@@ -3,14 +3,14 @@ title: Research
 permalink: /research/
 show_title: false
 publication_modal: true
-excerpt: "Research on Trustworthy AI, AI4Finance & DeFi, and Foundation Models & AI Applications by Zifan Peng."
+excerpt: "Research on Trustworthy AI, Blockchain & DeFi, and Agents & Multimodal AI by Zifan Peng."
 ---
 
 <section class="page-heading research-heading">
   <p class="section-kicker">{% include icon.html name="research" %}<span>Research</span></p>
   <h1>Problems I keep returning to</h1>
   <p>
-    My research spans Trustworthy AI, AI4Finance &amp; DeFi, and Foundation Models &amp; AI Applications.
+    My research spans Trustworthy AI, Blockchain &amp; DeFi, and Agents &amp; Multimodal AI.
   </p>
 </section>
 

@@ -2,7 +2,7 @@
 title: Home
 show_title: false
 news_toggle: true
-excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI, AI4Finance & DeFi, and Foundation Models & AI Applications."
+excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou), working on Trustworthy AI, Blockchain & DeFi, and Agents & Multimodal AI."
 ---
 
 <section class="intro-card">
@@ -19,15 +19,15 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <a href="https://yingjiexue-brown.github.io/">Dr. Yingjie Xue</a>.
     My current research interests lie in
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">Trustworthy AI</a>,
-    <a href="{{ "/research/#ai4finance" | relative_url }}">AI4Finance &amp; DeFi</a>, and
-    <a href="{{ "/research/#foundation-models" | relative_url }}">Foundation Models &amp; AI Applications</a>.
+    <a href="{{ "/research/#ai4finance" | relative_url }}">Blockchain &amp; DeFi</a>, and
+    <a href="{{ "/research/#foundation-models" | relative_url }}">Agents &amp; Multimodal AI</a>.
     <!-- Recently, I have also been exploring safety and privacy for large audio-language model (LALM) and embodied AI. -->
   </p>
   <div class="interest-pills" aria-label="Research focus">
     <span class="interest-pills-label">Focus:</span>
     <a href="{{ "/research/#trustworthy-ai" | relative_url }}">{% include icon.html name="shield" %}<span>Trustworthy AI</span></a>
-    <a href="{{ "/research/#ai4finance" | relative_url }}">{% include icon.html name="network" %}<span>AI4Finance &amp; DeFi</span></a>
-    <a href="{{ "/research/#foundation-models" | relative_url }}">{% include icon.html name="target" %}<span>Foundation Models &amp; AI Applications</span></a>
+    <a href="{{ "/research/#ai4finance" | relative_url }}">{% include icon.html name="network" %}<span>Blockchain &amp; DeFi</span></a>
+    <a href="{{ "/research/#foundation-models" | relative_url }}">{% include icon.html name="target" %}<span>Agents &amp; Multimodal AI</span></a>
   </div>
 </section>
 
