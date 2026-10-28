@@ -56,30 +56,6 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
       <div class="news-date"><time datetime="2026-07">2026.07</time></div>
       <p class="news-text">Our paper <em><a href="https://arxiv.org/abs/2608.27127">TransMeme</a></em> was accepted to ACM MM 2026, introducing a multi-agent framework for cross-cultural meme transcreation.</p>
     </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2026-06">2026.06</time></div>
-      <p class="news-text">I launched <em><a href="{{ "/blog/2026/06/01/awesome-audio-security-research/" | relative_url }}">Awesome Audio Security Research</a></em>, a weekly updated resource website and repository for audio security research.</p>
-    </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2026-04">2026.04</time></div>
-      <p class="news-text">Our paper <em><a href="{{ "/blog/2026/04/30/nl2repo-bench-icml-2026/" | relative_url }}">NL2Repo-Bench</a></em> was accepted to ICML 2026, studying long-horizon repository generation for coding agents.</p>
-    </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2026-01">2026.01</time></div>
-      <p class="news-text">Our paper <em><a href="{{ "/blog/2026/01/23/iclr-2026-paper-accepted/" | relative_url }}">JALMBench</a></em> was accepted to ICLR 2026, focusing on jailbreak vulnerabilities in audio language models.</p>
-    </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2025-09">2025.09</time></div>
-      <p class="news-text"><a href="{{ "/blog/2025/09/18/neurips-2025-two-papers-accepted/" | relative_url }}">Two papers</a>, <em>CHASM</em> and <em>SuperGPQA</em>, were accepted to NeurIPS 2025, covering covert ads detection and large-scale LLM evaluation.</p>
-    </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2025-06">2025.06</time></div>
-      <p class="news-text">Our paper <em><a href="{{ "/blog/2025/06/06/usenix-security-paper-accepted/" | relative_url }}">Unsafe LLM-Based Search</a></em> was accepted to USENIX Security 2025, analyzing safety risks in AI-powered web search.</p>
-    </article>
-    <article class="news-row">
-      <div class="news-date"><time datetime="2025-05">2025.05</time></div>
-      <p class="news-text">Our paper <em><a href="{{ "/blog/2025/05/15/cross-chain-options-bridgeless-universal-efficient-approach/" | relative_url }}">Cross-Chain Options</a></em> was accepted to ICWS 2025 as a regular full paper on bridgeless DeFi primitives.</p>
-    </article>
     <details class="news-more" data-news-more>
       <summary>
         <span class="news-toggle-icon news-toggle-icon--more">{% include icon.html name="plus" %}</span>
@@ -88,6 +64,30 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
         <span class="news-toggle-text news-toggle-text--less">Show less</span>
       </summary>
       <div class="news-more-list" data-news-more-content>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2026-06">2026.06</time></div>
+          <p class="news-text">I launched <em><a href="{{ "/blog/2026/06/01/awesome-audio-security-research/" | relative_url }}">Awesome Audio Security Research</a></em>, a weekly updated resource website and repository for audio security research.</p>
+        </article>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2026-04">2026.04</time></div>
+          <p class="news-text">Our paper <em><a href="{{ "/blog/2026/04/30/nl2repo-bench-icml-2026/" | relative_url }}">NL2Repo-Bench</a></em> was accepted to ICML 2026, studying long-horizon repository generation for coding agents.</p>
+        </article>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2026-01">2026.01</time></div>
+          <p class="news-text">Our paper <em><a href="{{ "/blog/2026/01/23/iclr-2026-paper-accepted/" | relative_url }}">JALMBench</a></em> was accepted to ICLR 2026, focusing on jailbreak vulnerabilities in audio language models.</p>
+        </article>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2025-09">2025.09</time></div>
+          <p class="news-text"><a href="{{ "/blog/2025/09/18/neurips-2025-two-papers-accepted/" | relative_url }}">Two papers</a>, <em>CHASM</em> and <em>SuperGPQA</em>, were accepted to NeurIPS 2025, covering covert ads detection and large-scale LLM evaluation.</p>
+        </article>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2025-06">2025.06</time></div>
+          <p class="news-text">Our paper <em><a href="{{ "/blog/2025/06/06/usenix-security-paper-accepted/" | relative_url }}">Unsafe LLM-Based Search</a></em> was accepted to USENIX Security 2025, analyzing safety risks in AI-powered web search.</p>
+        </article>
+        <article class="news-row">
+          <div class="news-date"><time datetime="2025-05">2025.05</time></div>
+          <p class="news-text">Our paper <em><a href="{{ "/blog/2025/05/15/cross-chain-options-bridgeless-universal-efficient-approach/" | relative_url }}">Cross-Chain Options</a></em> was accepted to ICWS 2025 as a regular full paper on bridgeless DeFi primitives.</p>
+        </article>
         <article class="news-row">
           <div class="news-date"><time datetime="2024-10">2024.10</time></div>
           <p class="news-text"><a href="{{ "/blog/2024/10/18/post/" | relative_url }}">I passed the PQE oral exam</a> and formally became a Ph.D. Candidate.</p>
