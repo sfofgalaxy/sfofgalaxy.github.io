@@ -26,10 +26,10 @@
           href="{{ site.google_scholar.url }}"
           aria-label="{{ site.google_scholar.citations }} Google Scholar citations"
           title="Google Scholar citations, checked {{ site.google_scholar.citations_updated }}">
-          <img
-            class="profile-citation-badge"
-            src="https://img.shields.io/badge/citations-{{ site.google_scholar.citations }}-9ac8f6?style=flat&amp;logo=googlescholar&amp;logoColor=4285f4&amp;labelColor=e2e2e2"
-            alt="{{ site.google_scholar.citations }} citations">
+          <span class="profile-citation-badge" aria-hidden="true">
+            <span class="profile-citation-label">{% include icon.html name="scholar" %}<span>citations</span></span>
+            <span class="profile-citation-count">{{ site.google_scholar.citations }}</span>
+          </span>
         </a>
       </div>
       <a href="https://github.com/sfofgalaxy">{% include icon.html name="github" %}<span>GitHub</span></a>
