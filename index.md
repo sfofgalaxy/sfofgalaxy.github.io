@@ -158,6 +158,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
     <section class="experience-block">
       <h3>{% include icon.html name="work" %}<span>Work</span></h3>
       <div class="timeline-list">
+        {% comment %} Temporarily hidden: Shanghai AI Laboratory internship.
         <article>
           <div class="timeline-copy">
             <span>2026.08 - Present</span>
@@ -170,6 +171,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <img src="{{ '/assets/logos/orgs/shlab.ico' | relative_url }}" alt="Shanghai AI Laboratory">
           </a>
         </article>
+        {% endcomment %}
         <article>
           <div class="timeline-copy">
             <span>2022 - 2023</span>
@@ -201,6 +203,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <img src="{{ '/assets/logos/orgs/alibaba.svg' | relative_url }}" alt="Alibaba Group">
           </a>
         </article>
+        {% comment %} Temporarily hidden: Huawei internship.
         <article>
           <div class="timeline-copy">
             <span>2020</span>
@@ -211,6 +214,7 @@ excerpt: "Zifan Peng is a Ph.D. Candidate in Financial Technology at The Hong Ko
             <img src="{{ '/assets/logos/orgs/huawei.svg' | relative_url }}" alt="Huawei">
           </a>
         </article>
+        {% endcomment %}
       </div>
     </section>
 
